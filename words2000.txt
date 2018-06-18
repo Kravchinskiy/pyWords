@@ -1,0 +1,2020 @@
+ID	WORD	TRANSLATE	TYPE	COUNT
+1	a	неопределенный артикль 	OTHER	0
+2	an ability	способность, возможность 	NOUN	0
+3	able	знающий, умелый, способный 	OTHER	0
+4	about	кругом, повсюду, приблизительно 	OTHER	0
+5	about	о, насчет, на тему, касательно 	OTHER	0
+6	above	наверху, вверху, выше, над 	OTHER	0
+7	abroad	за границей, за границу 	OTHER	0
+8	absolutely	совершенно, безусловно 	OTHER	0
+9	to accept	принимать, соглашаться, признавать 	VERB	0
+10	acceptable	"приемлемый; допустимый "	OTHER	0
+11	an accident	несчастный случай, авария 	NOUN	0
+12	accidental	случайный 	OTHER	0
+13	accidentally	случайно, нечаянно 	OTHER	0
+14	an accommodation  	помещение, жилье	NOUN	0
+15	according to	в соответствии с, согласно 	OTHER	0
+16	an account	счет, расчет, подсчет 	NOUN	0
+17	to achieve	добиваться, достигать 	VERB	0
+18	an achievement	достижение, успех 	NOUN	0
+19	across	поперек, сквозь, через 	OTHER	0
+20	to act	действовать, поступать 	VERB	0
+21	an action	действие, поступок 	NOUN	0
+22	active	активный, деятельный 	OTHER	0
+23	an activity	деятельность 	NOUN	0
+24	actual	фактический, реальный 	OTHER	0
+25	actually	фактически, на самом деле 	OTHER	0
+26	to add	прибавлять, присоединять 	VERB	0
+27	an address	адрес, обращение, речь 	NOUN	0
+28	to address	адресовать, направлять 	VERB	0
+29	adjective	имя прилагательное 	OTHER	0
+30	to admire	любоваться, восхищаться 	VERB	0
+31	to admit	допускать, соглашаться 	VERB	0
+32	advanced	передовой, продвинутый 	OTHER	0
+33	advantage	преимущество 	OTHER	0
+34	an advice	совет 	NOUN	0
+35	to advise	советовать, советоваться 	VERB	0
+36	to affect	(воз)действовать, влиять  	VERB	0
+37	to afford	быть в состоянии, предоставлять 	VERB	0
+38	afraid	испуганный 	OTHER	0
+39	after	за, позади 	OTHER	0
+40	after	после, потом 	OTHER	0
+41	afternoon	время после полудня 	OTHER	0
+42	afterwards	впоследствии, позднее 	OTHER	0
+43	again	еще, вновь, опять 	OTHER	0
+44	against	прямо напротив, лицом к 	OTHER	0
+45	age	возраст 	OTHER	0
+46	ago	тому назад 	OTHER	0
+47	to agree	соглашаться 	VERB	0
+48	agreement	согласие, соглашение 	OTHER	0
+49	ahead	"вперед; впереди "	OTHER	0
+50	an aim	намерение, цель 	NOUN	0
+51	to aim	домогаться, стремиться 	VERB	0
+52	an air	воздух, атмосфера 	NOUN	0
+53	alive	живой 	OTHER	0
+54	all	весь, вся, все, целый 	OTHER	0
+55	to allow	позволять, разрешать 	VERB	0
+56	almost	"почти; едва не "	OTHER	0
+57	alone	единственный, одинокий, одиноко 	OTHER	0
+58	along	вдоль, по  	OTHER	0
+59	along	в том же направлении 	OTHER	0
+60	already	уже 	OTHER	0
+61	also	тоже, также, к тому же 	OTHER	0
+62	although	хотя, несмотря на то, что 	OTHER	0
+63	always	всегда, неизменно 	OTHER	0
+64	among	между, посреди, среди 	OTHER	0
+65	an amount	величина, количество 	NOUN	0
+66	and	и, а, но 	OTHER	0
+67	angry	рассерженный, сердитый, 	OTHER	0
+68	to anNOUNce	объявлять, извещать 	VERB	0
+69	another	другой, еще один (такой же) 	OTHER	0
+70	an answer	ответ 	NOUN	0
+71	to answer	отвечать, откликаться 	VERB	0
+72	anxious	озабоченный, беспокойный 	OTHER	0
+73	any	всякий, какой-нибудь, любой, никакой 	OTHER	0
+74	any	нисколько, сколько-нибудь, ничуть 	OTHER	0
+75	anybody 	кто-нибудь, никто, любой 	OTHER	0
+76	anyone	кто-нибудь, никто, любой 	OTHER	0
+77	anything	что-нибудь, ничто, ничего 	OTHER	0
+78	anyway = anyhow	так или иначе, как-нибудь, все равно 	OTHER	0
+79	anywhere	где-нибудь, куда-нибудь, никуда, везде 	OTHER	0
+80	apart	в стороне, отдельно, отлично от 	OTHER	0
+81	to apologize = apologise	извиняться, просить прощения 	VERB	0
+82	apparently	очевидно, по-видимому 	OTHER	0
+83	an appeal	призыв, обращение, привлекательность 	NOUN	0
+84	to appeal	обращаться, взывать (to - к)  	VERB	0
+85	to appear	показываться, появляться 	VERB	0
+86	an appearance	внешность, появление 	NOUN	0
+87	to apply	обращаться(с просьбой), применять(ся) 	VERB	0
+88	an approval	одобрение, утверждение 	NOUN	0
+89	to approve	одобрять (что-л. - of), утверждать 	VERB	0
+90	an area	площадь, участок, пространство 	NOUN	0
+91	to argue	спорить 	VERB	0
+92	an argument	довод, аргумент 	NOUN	0
+93	an arm	рука (от кисти до плеча) 	NOUN	0
+94	around	всюду, кругом, повсюду, вокруг 	OTHER	0
+95	to arrange	приводить в порядок, расставлять 	VERB	0
+96	an arrangement	размещение, расположение 	NOUN	0
+97	an arrival	"прибытие (at, in; from) "	NOUN	0
+98	to arrive	прибывать 	VERB	0
+99	an art	искусство 	NOUN	0
+100	artificial	искусственный, ненатуральный 	OTHER	0
+101	as	в качестве, как, как например, т.к. 	OTHER	0
+102	ashamed	пристыженный 	OTHER	0
+103	to ask	спрашивать, просить 	VERB	0
+104	at	в, на, за, при, у, около 	OTHER	0
+105	to attach	прикреплять, прилагать 	VERB	0
+106	an attempt	попытка, проба, опыт 	NOUN	0
+107	to attempt	пытаться, стараться, стремиться 	VERB	0
+108	an attention	внимание, внимательность 	NOUN	0
+109	an attitude	позиция, отношение 	NOUN	0
+110	to attract	привлекать, притягивать 	VERB	0
+111	attractive	заманчивый, привлекательный 	OTHER	0
+112	an authority	власть, полномочие, авторитет 	NOUN	0
+113	an autumn	осень 	NOUN	0
+114	available	доступный, (при)годный, полезный 	OTHER	0
+115	average	среднее, средний 	OTHER	0
+116	to avoid	избегать, остерегаться, уклоняться 	VERB	0
+117	awake	не спящий, проснувшийся 	OTHER	0
+118	aware	знающий, осведомленный 	OTHER	0
+119	away	прочь, вдали 	OTHER	0
+120	a back	спина, спинка, зад, задняя часть 	NOUN	0
+121	back	назад, обратно, сзади, позади 	OTHER	0
+122	to back	поддерживать, подкреплять 	VERB	0
+123	backwards	назад, обратно 	OTHER	0
+124	bad	плохой 	OTHER	0
+125	badly	плохо 	OTHER	0
+126	a bag	сумка 	NOUN	0
+127	a balance	весы, равновесие, баланс 	NOUN	0
+128	a ball	шар, мяч 	NOUN	0
+129	a band	оркестр, лента, полоса 	NOUN	0
+130	a bang	удар, стук 	NOUN	0
+131	to bang	ударять, хлопать 	VERB	0
+132	a bank	банк, берег 	NOUN	0
+133	a bar	бар, брусок, барьер 	NOUN	0
+134	a base	база, базис, основа, основание 	NOUN	0
+135	to base	базировать, основывать 	VERB	0
+136	basic	составляющий основу, основной 	OTHER	0
+137	basically	"в своей основе; по существу "	OTHER	0
+138	a basis	базис, основа, основание 	NOUN	0
+139	a bath	ванна 	NOUN	0
+140	an battery	батарея, аккамулятор 	NOUN	0
+141	to be	быть 	VERB	0
+142	to bear	терпеть, выносить 	VERB	0
+143	to beat	бить, колотить 	VERB	0
+144	beautiful	красивый 	OTHER	0
+145	because	потому что, так как 	OTHER	0
+146	to become	становиться 	VERB	0
+147	before	перед, до, раньше 	OTHER	0
+148	before	впереди, вперед, прежде 	OTHER	0
+149	before	прежде чем, до того как 	OTHER	0
+150	to begin	начинать (ся) 	VERB	0
+151	a beginning	начало 	NOUN	0
+152	to behave	вести себя, поступать 	VERB	0
+153	a behaviour	поведение 	NOUN	0
+154	behind	сзади, позади, после, за 	OTHER	0
+155	behind	задний 	OTHER	0
+156	a belief	вера, доверие 	NOUN	0
+157	to believe	верить, полагать 	VERB	0
+158	to belong	принадлежать, соответствовать 	VERB	0
+159	below	ниже, внизу, под 	OTHER	0
+160	to bend	сгибать (ся), гнуть (ся) 	VERB	0
+161	beneath	под, ниже, внизу 	OTHER	0
+162	a benefit	выгода, прибыль 	NOUN	0
+163	beside	рядом с, возле, около 	OTHER	0
+164	best	лучший, наилучший 	OTHER	0
+165	best	лучше всего, больше всего 	OTHER	0
+166	a bet	пари 	NOUN	0
+167	to bet	держать пари 	VERB	0
+168	better	лучший, наилучший 	OTHER	0
+169	better	лучше 	OTHER	0
+170	between	между 	OTHER	0
+171	beyond	за, по ту сторону, за пределами 	OTHER	0
+172	big	большой 	OTHER	0
+173	a bill	счет 	NOUN	0
+174	a bin	ящик 	NOUN	0
+175	a birth	рождение 	NOUN	0
+176	a birthday	день рождения 	NOUN	0
+177	a bit	кусочек 	NOUN	0
+178	a bite	укус 	NOUN	0
+179	to bite	кусать (ся) 	VERB	0
+180	black	черный 	OTHER	0
+181	a black	черный цвет 	NOUN	0
+182	a blame	упрек, осуждение 	NOUN	0
+183	to blame	осуждать 	VERB	0
+184	blind	слепой, ослепленный 	OTHER	0
+185	a block	блок, квартал 	NOUN	0
+186	to block	заграждать, блокировать 	VERB	0
+187	to blow	веять, дуть 	VERB	0
+188	blue	голубой, синий 	OTHER	0
+189	a board	доска 	NOUN	0
+190	a boat	лодка, судно 	NOUN	0
+191	a body	тело 	NOUN	0
+192	to boil	варить (ся), кипятить (ся) 	VERB	0
+193	a book	книга 	NOUN	0
+194	to book	вносить в книгу, регистрировать 	VERB	0
+195	a border	граница 	NOUN	0
+196	bored	скучающий 	OTHER	0
+197	boring	скучный 	OTHER	0
+198	born	родившийся 	OTHER	0
+199	to borrow	одалживать, занимать 	VERB	0
+200	both	оба, обе 	OTHER	0
+201	to bother	беспокоить(ся), надоедать 	VERB	0
+202	bottom	дно, низ 	OTHER	0
+203	bottom	нижний 	OTHER	0
+204	bound	связанный 	OTHER	0
+205	a brain	мозг, интеллект 	NOUN	0
+206	a branch	ветвь, отрасль 	NOUN	0
+207	brave	смелый, храбрый 	OTHER	0
+208	a bread	хлеб 	NOUN	0
+209	a break	перерыв, разрыв 	NOUN	0
+210	to break	ломать, разрушать 	VERB	0
+211	to break down	разрушать, разбивать на кусочки 	VERB	0
+212	to break in	вламываться, врываться 	VERB	0
+213	to break into	вламываться, внезапно начинать 	VERB	0
+214	to break out	выламывать, вспыхивать 	VERB	0
+215	to break through	прорваться, пробиться 	VERB	0
+216	to break up	крошиться на мелкие части 	VERB	0
+217	a breakfast	завтрак 	NOUN	0
+218	a breath	дыхание, вздох 	NOUN	0
+219	to breathe	дышать 	VERB	0
+220	a bridge	мост 	NOUN	0
+221	brief	короткий, недолгий 	OTHER	0
+222	bright	яркий 	OTHER	0
+223	to bring	приносить, привозить 	VERB	0
+224	to bring back	приносить обратно, возвращать 	VERB	0
+225	to bring down	свалить, снизить (цену) 	VERB	0
+226	to bring forward	выдвигать (предложение) 	VERB	0
+227	to bring up	приводить, приносить наверх 	VERB	0
+228	broad	широкий 	OTHER	0
+229	broken	разбитый, сломанный 	OTHER	0
+230	a brother	брат 	NOUN	0
+231	brown	коричневый, бурый 	OTHER	0
+232	a brush	щетка 	NOUN	0
+233	to brush	чистить щеткой, причесывать 	VERB	0
+234	to build	строить 	VERB	0
+235	a building	здание, сооружение 	NOUN	0
+236	a bunch	связка, пучек 	NOUN	0
+237	to burn	гореть, пылать 	VERB	0
+238	to burst	лопаться, взрываться 	VERB	0
+239	to bury	хоронить, закапывать 	VERB	0
+240	a bus	автобус 	NOUN	0
+241	a bush	куст 	NOUN	0
+242	a business	дело, занятие 	NOUN	0
+243	busy	занятой, деятельный 	OTHER	0
+244	but	а, но, однако  	OTHER	0
+245	but	кроме, за исключением, исключая 	OTHER	0
+246	a butter	масло 	NOUN	0
+247	to buy	покупать 	VERB	0
+248	by	у, при, около, возле, рядом с 	OTHER	0
+249	by	близко, возле, около, рядом 	OTHER	0
+250	bye	до свидания 	OTHER	0
+251	a call	тефонный звонок, вызов, крик 	NOUN	0
+252	to call	кричать, называть 	VERB	0
+253	to call at	останавливаться (где -л.) , заходить 	VERB	0
+254	to call back	перезванивать кому-л. 	VERB	0
+255	to call off	отменять, откладывать, переносить 	VERB	0
+256	to call out	выкрикивать, вызывать 	VERB	0
+257	to call up	вызывать, звонить (по телефону) 	VERB	0
+258	calm	спокойный, мирный 	OTHER	0
+259	calmly	спокойно, невозмутимо 	OTHER	0
+260	can	мочь, быть в состоянии 	OTHER	0
+261	a cap	кепка 	NOUN	0
+262	a capital	столица 	NOUN	0
+263	a car	автомобиль, машина 	NOUN	0
+264	a card	карточка 	NOUN	0
+265	a care	забота, уход 	NOUN	0
+266	to care	заботиться (for, of, about) 	VERB	0
+267	careful	осторожный, внимательный 	OTHER	0
+268	careless	беззаботный, небрежный 	OTHER	0
+269	to carry	носить 	VERB	0
+270	a case	случай, чехол 	NOUN	0
+271	to catch	ловить, поймать 	VERB	0
+272	a cause	причина, основание 	NOUN	0
+273	to cause	послужить причиной/поводом для ч-л. 	VERB	0
+274	a centimetre	сантиметр 	NOUN	0
+275	central	центральный 	OTHER	0
+276	a centre	центр 	NOUN	0
+277	a century	столетие, век 	NOUN	0
+278	certain	определенный, уверенный 	OTHER	0
+279	certainly	конечно, естественно 	OTHER	0
+280	a challenge	(сложная) проблема 	NOUN	0
+281	a chance	возможность, случай 	NOUN	0
+282	a change	перемена, изменение 	NOUN	0
+283	to change	менять (ся), изменять (ся) 	VERB	0
+284	a character	характер, действующее лицо 	NOUN	0
+285	a characteristic	характерная черта, особенность 	NOUN	0
+286	a charge	плата, цена 	NOUN	0
+287	to charge	назначать, запрашивать цену 	VERB	0
+288	to chase	гнаться, преследовать 	VERB	0
+289	to chat	непринужденно болтать, беседовать 	VERB	0
+290	cheap	дешевый 	OTHER	0
+291	to cheat	обманывать, надувать 	VERB	0
+292	a check	контроль, проверка 	NOUN	0
+293	to check	проверять, сверять 	VERB	0
+294	a cheek	щека 	NOUN	0
+295	a cheque	чек 	NOUN	0
+296	a chief	главный, основной 	NOUN	0
+297	a child	ребенок 	NOUN	0
+298	a children	дети 	NOUN	0
+299	a chin	подбородок 	NOUN	0
+300	a choice	выбор, отбор 	NOUN	0
+301	to choose	выбирать 	VERB	0
+302	a church	церковь 	NOUN	0
+303	a cinema	кинотеатр 	NOUN	0
+304	a circle	круг, окружность 	NOUN	0
+305	a circumstance	обстоятельство, случай 	NOUN	0
+306	a city	город 	NOUN	0
+307	a claim	требование, претензия 	NOUN	0
+308	to claim	требовать, предъявлять требования 	VERB	0
+309	a class	класс, группа 	NOUN	0
+310	a classroom	классная комната, аудитория 	NOUN	0
+311	clean	чистый 	OTHER	0
+312	to clean	чистить 	VERB	0
+313	clear	чистый, ясный 	OTHER	0
+314	to clear	очищать, осветлять 	VERB	0
+315	clearly	ясно, очевидно 	OTHER	0
+316	clever	умный 	OTHER	0
+317	to climb	карапкаться, лазить 	VERB	0
+318	to close	закрывать (ся) 	VERB	0
+319	close	близкий 	OTHER	0
+320	closed	закрытый, запертый 	OTHER	0
+321	closely	близко, вплотную 	OTHER	0
+322	a clothes	одежда 	NOUN	0
+323	a club	клуб 	NOUN	0
+324	a clue	ключ (к разгадке), улика 	NOUN	0
+325	a coat	пальто 	NOUN	0
+326	a coffee	кофе 	NOUN	0
+327	cold	холодный 	OTHER	0
+328	to collect	собирать, коллекционировать 	VERB	0
+329	a collection	коллекция 	NOUN	0
+330	a colour	цвет, оттенок 	NOUN	0
+331	a combination	сочетание, комбинация 	NOUN	0
+332	to combine	соединяться, объединять(ся) 	VERB	0
+333	to come	приходить, подходить 	VERB	0
+334	to come back	возвращаться 	VERB	0
+335	to come down	спускаться, опускаться 	VERB	0
+336	to come from	приходить откуда-л. 	VERB	0
+337	to come in	входить 	VERB	0
+338	to come off	отрываться, отделываться 	VERB	0
+339	to come out	выходить 	VERB	0
+340	to come over	приезжать, приходить 	VERB	0
+341	to come round	заходить ненадолго, заглянуть 	VERB	0
+342	to come up	подниматься, возникать 	VERB	0
+343	a comfort	комфорт 	NOUN	0
+344	comfortable	комфортный, удобный 	OTHER	0
+345	a command	команда, распоряжение 	NOUN	0
+346	a comment	комментарий, замечание 	NOUN	0
+347	to comment	комментировать 	VERB	0
+348	to commit	совершать (преступление) 	VERB	0
+349	common	общее, распространенное 	OTHER	0
+350	common	общий, всеобщий 	OTHER	0
+351	to communicate	сообщать, передавать 	VERB	0
+352	a communication	коммуникация, связь 	NOUN	0
+353	a community	сообщество 	NOUN	0
+354	a company	компания 	NOUN	0
+355	to compare	сравнивать, сверять 	VERB	0
+356	to compete	состязаться, соперничать 	VERB	0
+357	to complain	жаловаться, выражать недовольство 	VERB	0
+358	a complaint	жалоба, недовольство 	NOUN	0
+359	complete	полный, укомплектованный 	OTHER	0
+360	to complete	завершать, укомплектовывать 	VERB	0
+361	completely	вполне, полностью 	OTHER	0
+362	complicated	запутанный, трудный для понимания 	OTHER	0
+363	a computer	компьютер 	NOUN	0
+364	to concentrate	сосредоточивать (ся) 	VERB	0
+365	a concentration	концентрация, сосредоточенность 	NOUN	0
+366	a concern	отношение, беспокойство 	NOUN	0
+367	concerned	заинтересованный, беспокоящийся 	OTHER	0
+368	concerning	касательно, относительно 	OTHER	0
+369	a conclusion	умозаключение, вывод 	NOUN	0
+370	a condition	условие 	NOUN	0
+371	to conduct	сопровождать, сопутствовать 	VERB	0
+372	a confidence	вера, уверенность 	NOUN	0
+373	confident	уверенный 	OTHER	0
+374	to confuse	смешивать, спутывать 	VERB	0
+375	confused	"смущенный; озадаченный "	OTHER	0
+376	confusing	сбивающий с толку 	OTHER	0
+377	to congratulate	поздравлять 	VERB	0
+378	a congratulations	поздравление 	NOUN	0
+379	to connect	соединять (ся), сочетать (ся) 	VERB	0
+380	connected	связанный с кем-л., чем-л. 	OTHER	0
+381	a connection	связь, соединение 	NOUN	0
+382	to consider	рассматривать, считать 	VERB	0
+383	to considering	учитывая, принимая во внимание 	VERB	0
+384	to consist	состоять, составлять из (of) 	VERB	0
+385	constantly	непрерывно, регулярно 	OTHER	0
+386	to consult	советоваться, консультироваться 	VERB	0
+387	a contact	контакт, соприкосновение 	NOUN	0
+388	to contact	связываться, общаться 	VERB	0
+389	to contain	содержать, вмещать 	VERB	0
+390	a container	контейнер, емкость 	NOUN	0
+391	a content	содержимое, содержание 	NOUN	0
+392	content	довольный 	OTHER	0
+393	a contents	содержимое 	NOUN	0
+394	continue	продолжать (ся), оставаться 	OTHER	0
+395	a contrast	различие, контраст 	NOUN	0
+396	to contrast	сопоставлять, сравнивать (with) 	VERB	0
+397	to contribute	способствовать, вносить вклад 	VERB	0
+398	a control	надзор, контроль 	NOUN	0
+399	to control	управлять, контролировать 	VERB	0
+400	convenient	удобный, близкий 	OTHER	0
+401	a conversation	разговор, беседа 	NOUN	0
+402	to convince	убеждать, уверять 	VERB	0
+403	convinced	убежденный, уверенный 	OTHER	0
+404	convincing	убедительный 	OTHER	0
+405	to cook	готовить 	VERB	0
+406	cool	прохладный, свежий 	OTHER	0
+407	to cope	справиться, выдержать 	VERB	0
+408	a copy	копия 	NOUN	0
+409	to copy	копировать 	VERB	0
+410	a corner	угол 	NOUN	0
+411	correct	правильный, соответствующий 	OTHER	0
+412	to correct	исправлять, корректировать 	VERB	0
+413	a correction	исправление, корректирование 	NOUN	0
+414	a cost	цена, стоимость, расходы 	NOUN	0
+415	to cost	стоить 	VERB	0
+416	to cough	кашлять 	VERB	0
+417	could	прош. вр. от can 	OTHER	0
+418	to count	считать, подсчитывать 	VERB	0
+419	a country	страна, деревня 	NOUN	0
+420	couple	пара, два, двое 	OTHER	0
+421	a course	курс, блюдо 	NOUN	0
+422	a cover	крышка, обложка 	NOUN	0
+423	to cover	накрывать, покрывать 	VERB	0
+424	a crash	грохот, авария, крушение 	NOUN	0
+425	to crash	рушиться, грохотать 	VERB	0
+426	crazy	ненормальный, псих 	OTHER	0
+427	to create	создавать, порождать 	VERB	0
+428	a creature	создание, творение 	NOUN	0
+429	a crime	преступление, нарушение 	NOUN	0
+430	a crisis	кризис 	NOUN	0
+431	a criticism	критика 	NOUN	0
+432	to criticize	критиковать 	VERB	0
+433	a cross	крест 	NOUN	0
+434	to cross	перекрещивать, пересекать (ся) 	VERB	0
+435	a crowd	толпа 	NOUN	0
+436	crowded	переполненный, битком набитый 	OTHER	0
+437	cruel	жестокий 	OTHER	0
+438	a cruelty	жестокость 	NOUN	0
+439	a cry	плач 	NOUN	0
+440	to cry	плакать 	VERB	0
+441	a culture	культура 	NOUN	0
+442	curious	любопытный, любознательный 	OTHER	0
+443	a custom	обычай, таможня 	NOUN	0
+444	to cut	резать 	VERB	0
+445	a cut	разрез, порез 	NOUN	0
+446	a damage	вред, повреждение 	NOUN	0
+447	to damage 	повреждать, портить 	VERB	0
+448	damp	влажный, сырой 	OTHER	0
+449	a dance	танец 	NOUN	0
+450	to dance	танцевать 	VERB	0
+451	a danger	опасность 	NOUN	0
+452	dangerous	опасный 	OTHER	0
+453	to dare	осмеливаться, сметь 	VERB	0
+454	dark	темный 	OTHER	0
+455	a date	дата 	NOUN	0
+456	a day	день 	NOUN	0
+457	dead	мертвый 	OTHER	0
+458	deaf	глухой 	OTHER	0
+459	a deal	сделка, соглашение 	NOUN	0
+460	dear	дорогой, милый 	OTHER	0
+461	a debt	долг 	NOUN	0
+462	to decide	решать (ся), принимать решение 	VERB	0
+463	a decision	решение 	NOUN	0
+464	a declaration	декларация 	NOUN	0
+465	to declare	заявлять, заявлять 	VERB	0
+466	deep	глубокий 	OTHER	0
+467	deep	глубоко 	OTHER	0
+468	to defeat	одержать победу 	VERB	0
+469	to defend	защищать (ся) 	VERB	0
+470	definite	ясный, точный 	OTHER	0
+471	a degree	степень, градус 	NOUN	0
+472	deliberate	намеренный, предумышленный  	OTHER	0
+473	deliberately	сознательно,обдуманно 	OTHER	0
+474	delicate	нежный 	OTHER	0
+475	delight	удовлетворение, удовольствие 	OTHER	0
+476	to deliver	доставлять, разносить 	VERB	0
+477	to demand	требовать 	VERB	0
+478	to demonstrate	показывать, демонстрировать 	VERB	0
+479	to depend	зависеть, находиться в зависимости 	VERB	0
+480	to describe	описывать 	VERB	0
+481	a description	описание 	NOUN	0
+482	to deserve	заслуживать 	VERB	0
+483	a design	проект, намерение, дизайн 	NOUN	0
+484	to design	разрабатывать, проектировать 	VERB	0
+485	desperate	"безнадежный; бесперспективный "	OTHER	0
+486	to destroy	разрушать, ликвидировать 	VERB	0
+487	a detail	деталь 	NOUN	0
+488	determined	решительный 	OTHER	0
+489	to develop	развивать (ся) 	VERB	0
+490	a development	развитие 	NOUN	0
+491	to die	умереть, скончаться 	VERB	0
+492	a difference	разница, отличие 	NOUN	0
+493	different	различный, разный 	OTHER	0
+494	difficult	трудный, сложный 	OTHER	0
+495	a difficulty	трудность 	NOUN	0
+496	to dig	копать, рыть 	VERB	0
+497	a dinner	обед 	NOUN	0
+498	direct	прямой 	OTHER	0
+499	to direct	руководить, направлять 	VERB	0
+500	a direction	направление 	NOUN	0
+501	to disagree	не совпадать, противоречить 	VERB	0
+502	to disappear	исчезать 	VERB	0
+503	disappointed	разочарованный 	OTHER	0
+504	to disapprove	осуждать, не одобрять 	VERB	0
+505	to discover	обнаруживать, открывать 	VERB	0
+506	a discovery	открытие 	NOUN	0
+507	to discuss	обсуждать 	VERB	0
+508	a discussion	дискуссия 	NOUN	0
+509	disgusting	противный 	OTHER	0
+510	a dish	блюдо 	NOUN	0
+511	a display	показ, выставка 	NOUN	0
+512	a distance	расстояние, дистанция 	NOUN	0
+513	distant	дальний, далекий 	OTHER	0
+514	to disturb	беспокоить, волновать 	VERB	0
+515	disturbing	беспокоящий, волнующий 	OTHER	0
+516	to divide	отделять (ся), разъединять (ся) 	VERB	0
+517	a division	деление, разделение 	NOUN	0
+518	to do	делать 	VERB	0
+519	a doctor	врач, доктор 	NOUN	0
+520	a door	дверь 	NOUN	0
+521	a doubt	сомнение 	NOUN	0
+522	to doubt	сомневаться 	VERB	0
+523	down	вниз, внизу 	OTHER	0
+524	downstairs	расположенный в нижнем этаже, вниз 	OTHER	0
+525	to draw	рисовать 	VERB	0
+526	a drawing	рисунок, рисование 	NOUN	0
+527	a dream	сон, мечта 	NOUN	0
+528	to dream	сниться, мечтать 	VERB	0
+529	a dress	платье, одежда 	NOUN	0
+530	to dress	одевать (ся), наряжать (ся) 	VERB	0
+531	a drink	напиток, глоток 	NOUN	0
+532	to drink	пить 	VERB	0
+533	a drive	езда 	NOUN	0
+534	to drive	везти, ездить, управлять (автомобил) 	VERB	0
+535	a drop	капля, падение 	NOUN	0
+536	to drop	ронять, падать 	VERB	0
+537	dry	сухой 	OTHER	0
+538	to dry	сушить (ся), сохнуть 	VERB	0
+539	dull	скучный, тупой 	OTHER	0
+540	during	в течение, во время 	OTHER	0
+541	a duty	обязанность 	NOUN	0
+542	each	каждый, всякий 	OTHER	0
+543	eager	страстно желающий, жаждущий 	OTHER	0
+544	a ear	ухо 	NOUN	0
+545	early	ранний, рано 	OTHER	0
+546	to earn	зарабатывать, заслуживать 	VERB	0
+547	a earth	Земля, земля 	NOUN	0
+548	easy	легкий 	OTHER	0
+549	to eat	есть, кушать 	VERB	0
+550	a edge	кромка, край 	NOUN	0
+551	a education	образование, обучение 	NOUN	0
+552	a effect	результат, следствие 	NOUN	0
+553	a effort	усилие, попытка 	NOUN	0
+554	either	любой (из двух), один из двух 	OTHER	0
+555	either	один из двух, такой или другой 	OTHER	0
+556	else	еще, кроме 	OTHER	0
+557	embarrassed	смущенный, растерянный 	OTHER	0
+558	embarrassing	стеснительный, смущающий 	OTHER	0
+559	a emergency	непредвиденный случай 	NOUN	0
+560	a emotion	чувство, эмоция 	NOUN	0
+561	a emphasis	важность, значимость 	NOUN	0
+562	to emphasize	подчеркивать, акцентировать 	VERB	0
+563	empty	пустой 	OTHER	0
+564	to encourage	поощрять, поддерживать 	VERB	0
+565	a end	конец 	NOUN	0
+566	to end	кончать, завершать 	VERB	0
+567	a enemy	враг 	NOUN	0
+568	a energy	энергия, сила 	NOUN	0
+569	to enjoy	получать удовольствие, наслаждаться 	VERB	0
+570	enjoyable	приятный 	OTHER	0
+571	enough	достаточно, достаточный 	OTHER	0
+572	to enter	входить, поступать 	VERB	0
+573	a entertainment	развлечение 	NOUN	0
+574	enthusiastic	восторженный, увлеченный 	OTHER	0
+575	a entrance	вход 	NOUN	0
+576	a entry	вход, проход 	NOUN	0
+577	a environment	окружение, окружающая среда 	NOUN	0
+578	equal	равный, одинаковый 	OTHER	0
+579	to equal	равняться, соответствовать 	VERB	0
+580	a equipment	оборудование, оснащение 	NOUN	0
+581	an error	заблуждение, ошибка 	NOUN	0
+582	to escape	убегать, избегать 	VERB	0
+583	especially	особенно, в особенности 	OTHER	0
+584	an estimate	оценка 	NOUN	0
+585	to estimate	оценивать, исчислять 	VERB	0
+586	even	даже 	OTHER	0
+587	even	ровный, равномерный 	OTHER	0
+588	an evening	вечер 	NOUN	0
+589	an event	событие 	NOUN	0
+590	ever	всегда, когда-либо 	OTHER	0
+591	every	каждый, любой 	OTHER	0
+592	everybody	каждый, всякий (человек), все 	OTHER	0
+593	everyone	каждый, всякий (человек), все 	OTHER	0
+594	everything	всё 	OTHER	0
+595	everywhere	везде, всюду 	OTHER	0
+596	an evidence	доказательство, основание 	NOUN	0
+597	exact	точный 	OTHER	0
+598	exactly	точно 	OTHER	0
+599	to exaggerate	преувеличивать 	VERB	0
+600	an exam	экзамен 	NOUN	0
+601	an example	пример 	NOUN	0
+602	excellent	отличный 	OTHER	0
+603	except	исключая, кроме 	OTHER	0
+604	exchange	обмен 	OTHER	0
+605	to exchange	обменивать 	VERB	0
+606	excited	взволнованный, напряженный 	OTHER	0
+607	exciting	возбуждающий, волнующий 	OTHER	0
+608	an excuse	извинение 	NOUN	0
+609	to excuse	извиняться, просить прощения 	VERB	0
+610	an exercise	упражнение, тренировка 	NOUN	0
+611	an exhibition	выставка 	NOUN	0
+612	to exist	существовать, иметься в природе 	VERB	0
+613	an exit	выход 	NOUN	0
+614	to expect	ожидать, надеяться 	VERB	0
+615	expensive	дорогой 	OTHER	0
+616	an experience	(жизненный) опыт, опыт работы 	NOUN	0
+617	an experiment	опыт, эксперимент 	NOUN	0
+618	to explain	объяснять, разъяснять 	VERB	0
+619	an explanation	пояснение, разъяснение 	NOUN	0
+620	an exploration	исследование, изучение 	NOUN	0
+621	an expression	выражение, выражение (лица) 	NOUN	0
+622	extra	добавочный, дополнительно 	OTHER	0
+623	extraordinary	необычный, чрезвычайный 	OTHER	0
+624	extremely	чрезвычайно, крайне 	OTHER	0
+625	an eye	глаз 	NOUN	0
+626	a face	лицо 	NOUN	0
+627	to face	быть обращенным к, стоять лицом к 	VERB	0
+628	a fact	обстоятельство, факт 	NOUN	0
+629	a factory	завод, фабрика 	NOUN	0
+630	to fail	потерпеть неудачу, не сбыться 	VERB	0
+631	a failure	неспособность, несостоятельность 	NOUN	0
+632	fair	честный, справедливый, светлый 	OTHER	0
+633	fairly	должным образом, довольно 	OTHER	0
+634	a fall	падение 	NOUN	0
+635	to fall	падать 	VERB	0
+636	false	неверный, ошибочный 	OTHER	0
+637	familiar	хорошо знакомый, привычный 	OTHER	0
+638	a family	семья 	NOUN	0
+639	famous	знаменитый, известный 	OTHER	0
+640	far	далеко 	OTHER	0
+641	far	дальний, далекий 	OTHER	0
+642	a fashion	мода 	NOUN	0
+643	fast	быстрый, скорый 	OTHER	0
+644	fast	быстро, скоро 	OTHER	0
+645	to fasten	прикреплять, застегивать (ся) 	VERB	0
+646	fat	толстый, упитанный 	OTHER	0
+647	a father	отец 	NOUN	0
+648	a fault	недостаток, неисправность 	NOUN	0
+649	a favour	одолжение, услуга 	NOUN	0
+650	favourite	любимый 	OTHER	0
+651	a fear	боязнь, страх 	NOUN	0
+652	to fear	бояться 	VERB	0
+653	a feature	особенность, характерная черта 	NOUN	0
+654	to feed	кормить 	VERB	0
+655	to feel	чувствовать, ощущать 	VERB	0
+656	a feeling	ощущение, чувство 	NOUN	0
+657	a female	самка, женская особь 	NOUN	0
+658	female	женского пола, женский 	OTHER	0
+659	a fence	забор 	NOUN	0
+660	to fetch	принести, добиваться 	VERB	0
+661	few	мало, немного, несколько 	OTHER	0
+662	a field	поле 	NOUN	0
+663	fierce	свирепый, лютый 	OTHER	0
+664	to fight	драться, сражаться 	VERB	0
+665	a figure	цифра, фигура 	NOUN	0
+666	a file	папка, досье 	NOUN	0
+667	to fill	наполнять (ся) 	VERB	0
+668	a film	фильм 	NOUN	0
+669	final	завершающий, заключительный 	OTHER	0
+670	finally	наконец, в конце концов 	OTHER	0
+671	to find	находить 	VERB	0
+672	fine	превосходный, тонкий 	OTHER	0
+673	to finger	палец (на руке) 	VERB	0
+674	to finish	заканчивать, завершать 	VERB	0
+675	a fire	огонь, пожар 	NOUN	0
+676	to fire	стрелять, выстреливать, увольнять 	VERB	0
+677	firm	твердый, стойкий 	OTHER	0
+678	first	первый, сначала 	OTHER	0
+679	to fit	подходить, соответствовать 	VERB	0
+680	fit	подходящий, соответствующий 	OTHER	0
+681	to fix	ремонтировать, устанавливать 	VERB	0
+682	flat	плоский, ровный 	OTHER	0
+683	flat	ровно, плоско 	OTHER	0
+684	a flavour	вкус, аромат 	NOUN	0
+685	a flight	полет 	NOUN	0
+686	to float	плавать, держаться на воде 	VERB	0
+687	to flood	заливать, затоплять 	VERB	0
+688	a floor	пол, этаж 	NOUN	0
+689	a flow	течение, поток 	NOUN	0
+690	to flow	течь, струиться 	VERB	0
+691	to fly	летать 	VERB	0
+692	to fold	загибать, складывать 	VERB	0
+693	to follow	следовать, следить 	VERB	0
+694	fond	нежный, любящий 	OTHER	0
+695	a food	пища, еда 	NOUN	0
+696	a foot	ступня, подножие 	NOUN	0
+697	for	для, в течение 	OTHER	0
+698	a force	сила 	NOUN	0
+699	to force	заставлять, принуждать 	VERB	0
+700	foreign	"иностранный; заграничный "	OTHER	0
+701	forever	навсегда, всегда 	OTHER	0
+702	to forget	забывать 	VERB	0
+703	to forgive	прощать 	VERB	0
+704	a fork	вилка 	NOUN	0
+705	a form	форма, вид, класс (в школе) 	NOUN	0
+706	to form	образовывать, формировать 	VERB	0
+707	formal	официальный, формальный 	OTHER	0
+708	fortunate	счастливый, удачливый 	OTHER	0
+709	fortunately	к счастью 	OTHER	0
+710	forward	вперед, спереди 	OTHER	0
+711	a frame	рама, оправа, каркас 	NOUN	0
+712	free	свободный, бесплатный 	OTHER	0
+713	to free	освобождать 	VERB	0
+714	free	бесплатно 	OTHER	0
+715	a freedom	свобода 	NOUN	0
+716	to freeze	замораживать, замерзать 	VERB	0
+717	frequent	частый 	OTHER	0
+718	fresh	свежий 	OTHER	0
+719	a friend	друг 	NOUN	0
+720	friendly	дружественный 	OTHER	0
+721	to frighten	пугать 	VERB	0
+722	frightened	испуганный 	OTHER	0
+723	from	от, из, с 	OTHER	0
+724	front	передняя сторона чего-л 	OTHER	0
+725	full	полный 	OTHER	0
+726	a fun	шутка, веселье 	NOUN	0
+727	funny	забавный, смешной 	OTHER	0
+728	a furniture	мебель 	NOUN	0
+729	further	дальше, дальнейший 	OTHER	0
+730	a future	будущее 	NOUN	0
+731	future	будущий 	OTHER	0
+732	a game	игра 	NOUN	0
+733	a gap	щель, промежуток 	NOUN	0
+734	a gas	газ 	NOUN	0
+735	a gate	ворота 	NOUN	0
+736	to gather	собирать (ся) 	VERB	0
+737	general	главный, основной 	OTHER	0
+738	generally	обычно, как правило 	OTHER	0
+739	generous	щедрый, великодушный 	OTHER	0
+740	gentle	ласковый, нежный 	OTHER	0
+741	genuine	истинный, реальный 	OTHER	0
+742	to get	получить 	VERB	0
+743	to get away	уходить 	VERB	0
+744	to get back	вернуть (ся) 	VERB	0
+745	to get off	сойти, слезть 	VERB	0
+746	to get on 	садиться (в машину) 	VERB	0
+747	to get out	выходить, вылезать 	VERB	0
+748	to get up	вставать, подниматься 	VERB	0
+749	a gift	подарок 	NOUN	0
+750	to give	давать, дарить 	VERB	0
+751	to give away	отдавать, дарить 	VERB	0
+752	to give back	возвращать, отдавать 	VERB	0
+753	to give out	раздавать, распределять 	VERB	0
+754	to give up	оставить, отказаться 	VERB	0
+755	glad	довольный, рад 	OTHER	0
+756	a glass	стекло, стакан 	NOUN	0
+757	to go	идти, ходить 	VERB	0
+758	to go away	уходить, уезжать 	VERB	0
+759	to go back (to)	возвращаться 	VERB	0
+760	to go down	опускаться, садиться 	VERB	0
+761	to go off	выстреливать (об оружии), взрываться 	VERB	0
+762	to go on	продолжать, случаться 	VERB	0
+763	to go out	выйти, выходить 	VERB	0
+764	to go up	подниматься, идти вверх 	VERB	0
+765	good	хороший 	OTHER	0
+766	goodbye	до свидания! 	OTHER	0
+767	a government	правительство 	NOUN	0
+768	a grade	степень, класс, сорт 	NOUN	0
+769	gradually	постепенно 	OTHER	0
+770	grand	большой, замечательный 	OTHER	0
+771	grateful	благодарный, признательный 	OTHER	0
+772	great	большой, огромный 	OTHER	0
+773	a greeting	приветствие 	NOUN	0
+774	a ground	земля 	NOUN	0
+775	a group	группа 	NOUN	0
+776	to grow	расти, вырастать 	VERB	0
+777	a guard	охрана, защита 	NOUN	0
+778	a guess	предположение, догадка 	NOUN	0
+779	to guess	догадаться, полагать 	VERB	0
+780	to guide	вести, руководить 	VERB	0
+781	guilty	виновный, виноватый 	OTHER	0
+782	a habit	обычай, привычка 	NOUN	0
+783	a hair	волосы 	NOUN	0
+784	a half	половина 	NOUN	0
+785	a hand	рука (кисть), стрелка (часов) 	NOUN	0
+786	to handle	управлять, регулировать, трогать 	VERB	0
+787	to hang	вешать, висеть 	VERB	0
+788	to happen	случаться, происходить 	VERB	0
+789	happy	счастливый, довольный 	OTHER	0
+790	hard	жесткий, твердый 	OTHER	0
+791	hard	активно, упорно 	OTHER	0
+792	hardly	вряд ли, почти не, едва 	OTHER	0
+793	a harm	"вред; зло "	NOUN	0
+794	to hate	ненавидеть 	VERB	0
+795	he	он 	OTHER	0
+796	to have	иметь 	VERB	0
+797	a head	голова 	NOUN	0
+798	a health	здоровье 	NOUN	0
+799	healthy	здоровый 	OTHER	0
+800	to hear 	слышать, услышать 	VERB	0
+801	a heart	сердце 	NOUN	0
+802	a heat	жара, тепло 	NOUN	0
+803	heavy	тяжелый 	OTHER	0
+804	a height	высота, рост 	NOUN	0
+805	hello	привет! 	OTHER	0
+806	to help	помогать 	VERB	0
+807	her	ее 	OTHER	0
+808	here	здесь 	OTHER	0
+809	hers	ее 	OTHER	0
+810	herself	сама, себя 	OTHER	0
+811	to hide	прятать (ся), скрывать (ся) 	VERB	0
+812	high	высокий 	OTHER	0
+813	high	высоко 	OTHER	0
+814	him	ему, его 	OTHER	0
+815	himself	сам, себя 	OTHER	0
+816	his	его 	OTHER	0
+817	a history	история 	NOUN	0
+818	a hit	хит, попдание 	NOUN	0
+819	to hit	ударять, попаать 	VERB	0
+820	a hold	захвт, рукоятка 	NOUN	0
+821	to hold	дерать 	VERB	0
+822	to hold on	подождать 	VERB	0
+823	to hold out	протягивать, предлагать 	VERB	0
+824	to hold up	останавливать, грабить 	VERB	0
+825	a hole	дыра 	NOUN	0
+826	a holiday	праздник, отпуск 	NOUN	0
+827	hollow	пустой, впалый 	OTHER	0
+828	home	дом 	OTHER	0
+829	home	дома 	OTHER	0
+830	honest	честный 	OTHER	0
+831	a hope	надежда 	NOUN	0
+832	to hope	надеяться 	VERB	0
+833	a hospital	больница 	NOUN	0
+834	hot	горячий, острый 	OTHER	0
+835	a hour	час 	NOUN	0
+836	a house	дом 	NOUN	0
+837	how	как 	OTHER	0
+838	however	однако, тем не менее 	OTHER	0
+839	human	людской, человеческий 	OTHER	0
+840	hungry	голодный 	OTHER	0
+841	a hurry	суета, спешка 	NOUN	0
+842	to hurry	торопить (ся), подгонять 	VERB	0
+843	to hurt	ранить, обижать 	VERB	0
+844	hurt	раненый 	OTHER	0
+845	I	я 	OTHER	0
+846	an idea	идея 	NOUN	0
+847	to identify	опознавать, идентифицировать 	VERB	0
+848	if	если 	OTHER	0
+849	to ignore	игнорировать, пренебрегать 	VERB	0
+850	ill	больной 	OTHER	0
+851	an illness	болезнь 	NOUN	0
+852	an image	образ, имидж 	NOUN	0
+853	an imagination	"воображение; фантазия "	NOUN	0
+854	to imagine	воображать, представлять себе 	VERB	0
+855	immediate	немедленный 	OTHER	0
+856	immediately	немедленно, сразу 	OTHER	0
+857	impatient	нетерпеливый 	OTHER	0
+858	an importance	важность, значимость 	NOUN	0
+859	important	важный 	OTHER	0
+860	impossible	невозможный, невыполнимый 	OTHER	0
+861	impressed	пораженный 	OTHER	0
+862	an impression	впечатление 	NOUN	0
+863	impressive	впечатляющий, выразительный 	OTHER	0
+864	to improve	улучшать (ся), совершенствовать (ся) 	VERB	0
+865	an improvement	улучшение, усовершенствование 	NOUN	0
+866	in	в, во 	OTHER	0
+867	in	внутри, внутренний 	OTHER	0
+868	include	заключать, включать в себя 	OTHER	0
+869	an increase	возрастание, рост 	NOUN	0
+870	to increase	возрастать, увеличивать (ся) 	VERB	0
+871	indeed	в самом деле, действительно 	OTHER	0
+872	independent	независимый, самостоятельный 	OTHER	0
+873	an influence	влияние, действие 	NOUN	0
+874	to influence	влиять, воздействовать 	VERB	0
+875	to inform	сообщать, информировать 	VERB	0
+876	an information	информация 	NOUN	0
+877	an injury	вред, рана 	NOUN	0
+878	innocent	невинный, непорочный 	OTHER	0
+879	to inquire	осведомляться, узнавать 	VERB	0
+880	inside	внутренний, внутри 	OTHER	0
+881	to insist	настаивать, утверждать 	VERB	0
+882	instant	мгновенный, растворимый 	OTHER	0
+883	instead	вместо, взамен 	OTHER	0
+884	an instruction	инструкция, правило 	NOUN	0
+885	an instrument	инструмент, прибор 	NOUN	0
+886	intelligent	сообразительный, понятливый 	OTHER	0
+887	to intend	планировать, предназначаться 	VERB	0
+888	an interest	интерес 	NOUN	0
+889	interested	заинтересованный, интересующийся 	OTHER	0
+890	interesting	интересный 	OTHER	0
+891	to interfere	вмешиваться, повлиять 	VERB	0
+892	to interrupt	прерывать, прекращать 	VERB	0
+893	an interruption	перерыв, пауза 	NOUN	0
+894	an interview	беседа, интервью 	NOUN	0
+895	to interview	интервьюировать 	VERB	0
+896	into	в (о), на 	OTHER	0
+897	to introduce	знакомить, представлять 	VERB	0
+898	an introduction	введение, представление 	NOUN	0
+899	invitation	приглашение 	OTHER	0
+900	to invite	приглашать, звать 	VERB	0
+901	to involve	вовлекать, вмешивать 	VERB	0
+902	a issue	вопрос (проблема), выпуск 	NOUN	0
+903	it	это, он, она, оно 	OTHER	0
+904	its	его, ее 	OTHER	0
+905	Itself	себя, сам, сама, само 	OTHER	0
+906	a job	работа 	NOUN	0
+907	to join	соединять, объединять 	VERB	0
+908	a joke	шутка 	NOUN	0
+909	to joke	шутить 	VERB	0
+910	a journey	путешествие, поездка 	NOUN	0
+911	a judge	судья 	NOUN	0
+912	to judge	судить, выносить приговор 	VERB	0
+913	a juice	сок 	NOUN	0
+914	to jump	прыгать 	VERB	0
+915	just	только что, точно, только 	OTHER	0
+916	a justice	справедливость, правосудие 	NOUN	0
+917	keen	острый, сильный, резкий 	OTHER	0
+918	to keep	держать, хранить 	VERB	0
+919	to keep away	держать (ся) в отдалении, избегать 	VERB	0
+920	to keep from	удерживать (ся), воздерживаться 	VERB	0
+921	to keep off	не подпускать, воздерживаться 	VERB	0
+922	to keep out	не допускать, не впускать 	VERB	0
+923	to keep up	поддерживать, продолжать 	VERB	0
+924	a key	ключ 	NOUN	0
+925	to kick	ударять ногой, пинать 	VERB	0
+926	to kill	убивать 	VERB	0
+927	a kind	сорт, вид 	NOUN	0
+928	kind	добрый 	OTHER	0
+929	to knock	ударять, стучать 	VERB	0
+930	to know	знать 	VERB	0
+931	a knowledge	знание 	NOUN	0
+932	a label	ярлык, этикетка 	NOUN	0
+933	a land	земля, суша, почва 	NOUN	0
+934	to land	приземляться, высаживать (на берег) 	VERB	0
+935	a language	язык 	NOUN	0
+936	large	большой, крупный 	OTHER	0
+937	last	последний, прошлый 	OTHER	0
+938	to last	длиться, сохраняться 	VERB	0
+939	late	поздний, последний, поздно 	OTHER	0
+940	later	более поздний 	OTHER	0
+941	later	позже 	OTHER	0
+942	a laugh	смех 	NOUN	0
+943	to laugh	смеяться, рассмеяться 	VERB	0
+944	a law	закон 	NOUN	0
+945	to lay	класть, положить 	VERB	0
+946	a lead	преимущество, поводок (для собаки) 	NOUN	0
+947	to lead	вести, сопровождать, управлять 	VERB	0
+948	to lean	наклонять (ся), опирать (ся) 	VERB	0
+949	to learn	учиться, учить (что-л.) 	VERB	0
+950	least	наименьший, наименее 	OTHER	0
+951	to leave	покидать, оставлять 	VERB	0
+952	left	левый 	OTHER	0
+953	left	налево, слева  	OTHER	0
+954	a left	левая сторона 	NOUN	0
+955	a leg	нога (от бедра до ступни), ножка 	NOUN	0
+956	legal	легальный, законный 	OTHER	0
+957	to lend	одалживать, давать взаймы 	VERB	0
+958	a length	длина, расстояние 	NOUN	0
+959	less	меньше, менее 	OTHER	0
+960	a lesson	урок 	NOUN	0
+961	to let	позволять, разрешать, сдавать внаем 	VERB	0
+962	a letter	письмо, буква 	NOUN	0
+963	a level	уровень, степень 	NOUN	0
+964	level	плоский, ровный 	OTHER	0
+965	to lie	лежать 	VERB	0
+966	a life	жизнь 	NOUN	0
+967	to lift	поднимать (ся) 	VERB	0
+968	a light	свет, лампа 	NOUN	0
+969	light	светлый, легкий 	OTHER	0
+970	to light	загораться, освещать 	VERB	0
+971	to like	любить, нравиться 	VERB	0
+972	like	подобный, похожий 	OTHER	0
+973	likely	вероятный, возможный 	OTHER	0
+974	a limit	граница, предел 	NOUN	0
+975	to limit	ограничивать, ставить предел 	VERB	0
+976	a line	линия, очередь, веревка 	NOUN	0
+977	a list	список, перечень 	NOUN	0
+978	to listen	слушать 	VERB	0
+979	to listen for	прислушиваться 	VERB	0
+980	little	маленький 	OTHER	0
+981	little	мало, немного 	OTHER	0
+982	to live	жить 	VERB	0
+983	live	живой 	OTHER	0
+984	a load	груз 	NOUN	0
+985	to load	грузить, загружаться 	VERB	0
+986	a loan	заем, ссуда 	NOUN	0
+987	a lock	замок, локон 	NOUN	0
+988	to lock	запирать ключом, блокировать 	VERB	0
+989	lonely	одинокий 	OTHER	0
+990	long	длинный 	OTHER	0
+991	long	долго, длительно 	OTHER	0
+992	to look	смотреть, следить 	VERB	0
+993	to look after	присматривать, ухаживать за 	VERB	0
+994	to look around	осматривать 	VERB	0
+995	to look back (on)	оглядываться 	VERB	0
+996	to look up	искать (что-л. в справочнике) 	VERB	0
+997	loose	свободный, неупакованный 	OTHER	0
+998	to lose	терять, проигрывать 	VERB	0
+999	a loss	потеря, гибель 	NOUN	0
+1000	lost	разрушенный, потерянный 	OTHER	0
+1001	lot	много 	OTHER	0
+1002	loud	громкий, шумный 	OTHER	0
+1003	a love	любовь 	NOUN	0
+1004	to love	любить 	VERB	0
+1005	low	низкий 	OTHER	0
+1006	lower	нижний, низший 	OTHER	0
+1007	a luck	везение, удача, успех 	NOUN	0
+1008	lucky	счастливый, удачный 	OTHER	0
+1009	a lunch	обед, ланч 	NOUN	0
+1010	a machine	машина, механизм 	NOUN	0
+1011	mad	сумасшедший, ненормальный 	OTHER	0
+1012	a mail	почта 	NOUN	0
+1013	main	главный, основной 	OTHER	0
+1014	mainly	главным образом, преимущественно 	OTHER	0
+1015	to maintain	поддерживать, удерживать 	VERB	0
+1016	major	более важный, больший 	OTHER	0
+1017	majority	большинство 	OTHER	0
+1018	to make	делать, создавать 	VERB	0
+1019	to make into	переделывать, превращать во (что-л.) 	VERB	0
+1020	to make up	выдумывать 	VERB	0
+1021	a male	самец 	NOUN	0
+1022	male	мужской, мужского пола 	OTHER	0
+1023	a man	человек, мужчина 	NOUN	0
+1024	to manage	руководить, управлять 	VERB	0
+1025	a manner	манера, способ, метод 	NOUN	0
+1026	many	много 	OTHER	0
+1027	to march	маршировать, вышагивать (нервно) 	VERB	0
+1028	a mark	знак, пятно, оценка 	NOUN	0
+1029	to mark	отмечать, обозначать 	VERB	0
+1030	a market	рынок 	NOUN	0
+1031	married	женатый, замужняя 	OTHER	0
+1032	to marry	жениться или выходить замуж 	VERB	0
+1033	a mass	масса, множество 	NOUN	0
+1034	a match	спичка, матч 	NOUN	0
+1035	to match	подходить, соответствовать 	VERB	0
+1036	a material	материал 	NOUN	0
+1037	a matter	дело, вопрос, причина 	NOUN	0
+1038	to matter	иметь значение, значить 	VERB	0
+1039	maximum	максимальный 	OTHER	0
+1040	to may	мочь (разрешение) 	VERB	0
+1041	to maybe	может быть 	VERB	0
+1042	me	меня, мне 	OTHER	0
+1043	a meal	прием пищи, еда 	NOUN	0
+1044	mean	неприятный, противный 	OTHER	0
+1045	to mean	иметь в виду, значить, думать 	VERB	0
+1046	a meaning	значение, смысл 	NOUN	0
+1047	a means	средство, способ, метод 	NOUN	0
+1048	meanwhile	тем временем, между тем 	OTHER	0
+1049	a measure	мера, мероприятие 	NOUN	0
+1050	to measure	измерять, иметь размер 	VERB	0
+1051	medium	средний, промежуточный 	OTHER	0
+1052	to meet	встречать (ся), знакомиться 	VERB	0
+1053	a meeting	встреча, собрание 	NOUN	0
+1054	a memory	память 	NOUN	0
+1055	to mend	чинить, ремонтировать 	VERB	0
+1056	to mention	упоминать 	VERB	0
+1057	a mess	беспорядок, неприятность 	NOUN	0
+1058	to mess	производить беспорядок 	VERB	0
+1059	a message	сообщение, основная тема 	NOUN	0
+1060	a method	метод, способ 	NOUN	0
+1061	a middle	середина 	NOUN	0
+1062	middle	средний, центральный 	OTHER	0
+1063	to might	мочь (прош. вр. от may) 	VERB	0
+1064	to mind	возражать, иметь что-л. против 	VERB	0
+1065	a mind	ум, мнение, воспоминание 	NOUN	0
+1066	mine	мой, моя, мое 	OTHER	0
+1067	a mine	шахта, мина 	NOUN	0
+1068	a minimum	минимум, минимальное количество 	NOUN	0
+1069	minimum	минимальный  	OTHER	0
+1070	minor	незначительный, несущественный 	OTHER	0
+1071	a minority	меньшинство 	NOUN	0
+1072	a minute	минута 	NOUN	0
+1073	to miss	скучать, пропустить, не попасть 	VERB	0
+1074	a miss	промах, неудача, отсутствие 	NOUN	0
+1075	a mistake	ошибка 	NOUN	0
+1076	to mistake	ошибаться 	VERB	0
+1077	to mix	смешивать (ся), соединять 	VERB	0
+1078	to mixture	смешивание, смесь 	VERB	0
+1079	a model	модель, макет 	NOUN	0
+1080	modern	современный 	OTHER	0
+1081	a moment	момент, мгновение 	NOUN	0
+1082	a money	деньги 	NOUN	0
+1083	a month	месяц 	NOUN	0
+1084	a mood	настроение 	NOUN	0
+1085	a moon	луна 	NOUN	0
+1086	moral	моральный, нравственный 	OTHER	0
+1087	more	больше, еще 	OTHER	0
+1088	a morning	утро 	NOUN	0
+1089	most	больше всего, почти все 	OTHER	0
+1090	a mother	мама 	NOUN	0
+1091	a motion	движение 	NOUN	0
+1092	a mouth	рот 	NOUN	0
+1093	a move	движение, развитие 	NOUN	0
+1094	to move	двигать (ся), переезжать 	VERB	0
+1095	a movement	движение, передвижение 	NOUN	0
+1096	much	много, очень 	OTHER	0
+1097	a murder	убийство 	NOUN	0
+1098	to murder	убивать 	VERB	0
+1099	a muscle	мускул, мышца 	NOUN	0
+1100	a music	музыка 	NOUN	0
+1101	must	должен, обязан 	OTHER	0
+1102	my	мой, моя, мое 	OTHER	0
+1103	myself	себя, себе, сам 	OTHER	0
+1104	mysterious	таинственный, загадочный 	OTHER	0
+1105	a mystery	тайна, загадка 	NOUN	0
+1106	a name	имя 	NOUN	0
+1107	to name	называть, назначать 	VERB	0
+1108	narrow	узкий 	OTHER	0
+1109	national	национальный, народный  	OTHER	0
+1110	natural	естественный, природный 	OTHER	0
+1111	naturally	естественно 	OTHER	0
+1112	a nature	природа 	NOUN	0
+1113	near	близко, около, возле, рядом 	OTHER	0
+1114	near	ближний, близкий 	OTHER	0
+1115	nearly	почти 	OTHER	0
+1116	neat	аккуратный 	OTHER	0
+1117	necessary	необходимый, нужный 	OTHER	0
+1118	a neck	шея, воротник, горлышко 	NOUN	0
+1119	to need	нуждаться, требоваться 	VERB	0
+1120	a needle	игла 	NOUN	0
+1121	negative	отрицательный, негативный 	OTHER	0
+1122	neither	ни тот ни другой, ни один из двух 	OTHER	0
+1123	neither	также не 	OTHER	0
+1124	a nerve	нерв, мускул 	NOUN	0
+1125	nervous	нервный 	OTHER	0
+1126	never	никогда 	OTHER	0
+1127	new	новый 	OTHER	0
+1128	a news	известие, новость 	NOUN	0
+1129	next	следующий, потом, рядом 	OTHER	0
+1130	nice	хороший, приятный 	OTHER	0
+1131	a night	ночь 	NOUN	0
+1132	no	не, нисколько не 	OTHER	0
+1133	no	никакой, нет 	OTHER	0
+1134	a noise	шум, грохот 	NOUN	0
+1135	noisy	шумный, неспокойный 	OTHER	0
+1136	none	никакой, ни один, никто 	OTHER	0
+1137	a nonsense	абсурд, ерунда 	NOUN	0
+1138	no one	никто 	OTHER	0
+1139	nor	и... не, также... не 	OTHER	0
+1140	normal	нормальный, обыкновенный 	OTHER	0
+1141	a nose	нос 	NOUN	0
+1142	not	не, нет, ни 	OTHER	0
+1143	a note	записка, нота 	NOUN	0
+1144	nothing	ничего, ничто 	OTHER	0
+1145	a notice	объявление, афиша 	NOUN	0
+1146	now	сейчас 	OTHER	0
+1147	now	теперь 	OTHER	0
+1148	nowhere	нигде, никуда 	OTHER	0
+1149	a number	число, номер, количество 	NOUN	0
+1150	a nurse	медицинская сестра 	NOUN	0
+1151	an object	предмет, объект, цель 	NOUN	1
+1152	to object	возражать, протестовать 	VERB	0
+1153	an objection  	возражение, протест	NOUN	0
+1154	to obtain	получать, добывать 	VERB	0
+1155	obvious	очевидный, ясный 	OTHER	0
+1156	an occasion	случай, повод 	NOUN	0
+1157	occasional	случайный 	OTHER	0
+1158	to occur	происходить, случаться 	VERB	0
+1159	an ocean	океан 	NOUN	0
+1160	odd	странный, необычный 	OTHER	0
+1161	of	от, об, о, из 	OTHER	0
+1162	off	с, со, от, выключенный 	OTHER	0
+1163	off	несвежий, маловероятный 	OTHER	0
+1164	an offence	нарушение, преступление 	NOUN	0
+1165	to offend	обижать, раздражать 	VERB	0
+1166	an offer	предложение 	NOUN	0
+1167	to offer	предлагать 	VERB	0
+1168	an office	офис 	NOUN	0
+1169	official	официальный 	OTHER	0
+1170	an official	должностное лицо 	NOUN	0
+1171	often	часто 	OTHER	0
+1172	an oil	нефть, масло 	NOUN	0
+1173	OK or okay	хорошо, правильно 	OTHER	0
+1174	old	старый 	OTHER	0
+1175	on	на, в, по  	OTHER	0
+1176	on	включенный, действующий 	OTHER	0
+1177	once	один раз, раз 	OTHER	0
+1178	once	однажды, когда-то 	OTHER	0
+1179	one	один 	OTHER	0
+1180	only	только, исключительно 	OTHER	0
+1181	only	единственный 	OTHER	0
+1182	onto	на, в 	OTHER	0
+1183	open	открытый 	OTHER	0
+1184	to open	открывать (ся), раскрывать (ся) 	VERB	0
+1185	to operate	действовать, функционировать 	VERB	0
+1186	an operation	операция, деятельность 	NOUN	0
+1187	an opinion	мнение 	NOUN	0
+1188	an opponent	противник, оппонент 	NOUN	0
+1189	an opportunity	благоприятная возможность 	NOUN	0
+1190	opposite	противоположный 	OTHER	0
+1191	opposite	напротив, против 	OTHER	0
+1192	or	или 	OTHER	0
+1193	an order	порядок, заказ в ресторане 	NOUN	0
+1194	to order	заказывать, приказывать 	VERB	0
+1195	ordinary	обычный, обыкновенный 	OTHER	0
+1196	an organization	организация 	NOUN	0
+1197	to organize	организовывать, планировать 	VERB	0
+1198	original	начальный, оригинальный 	OTHER	0
+1199	other	другой 	OTHER	0
+1200	otherwise	иначе, во всем остальном 	OTHER	0
+1201	ought	выражает долженствование 	OTHER	0
+1202	our	наш 	OTHER	0
+1203	ours	наш 	OTHER	0
+1204	ourselves	сами, себя 	OTHER	0
+1205	out	вне, снаружи, из, наружу, внешний 	OTHER	0
+1206	outside	снаружи, вне, за пределами 	OTHER	0
+1207	over	над, выше, через, по 	OTHER	0
+1208	over	свыше, повсюду 	OTHER	0
+1209	to owe	быть должным, быть обязанным 	VERB	0
+1210	own	свой, собственный 	OTHER	0
+1211	a pain	боль, страдание 	NOUN	0
+1212	a pair	пара 	NOUN	0
+1213	a paper	бумага 	NOUN	0
+1214	a part	доля, часть 	NOUN	0
+1215	to part	расставаться, разделяться 	VERB	0
+1216	an partner	партнер, супруг (а) 	NOUN	0
+1217	an party	вечеринка, партия 	NOUN	0
+1218	to pass	проходить, проезжать, передавать 	VERB	0
+1219	a passage	проход, коридор, пассаж 	NOUN	0
+1220	a passenger	пассажир 	NOUN	0
+1221	a past	прошлое, прошедшее 	NOUN	0
+1222	past	прошлый, прошедший 	OTHER	0
+1223	past	мимо 	OTHER	0
+1224	a path	тропинка, дорожка 	NOUN	0
+1225	a patience	терпение 	NOUN	0
+1226	patient	терпеливый 	OTHER	0
+1227	a pattern	модель, система 	NOUN	0
+1228	a pause	пауза 	NOUN	0
+1229	to pause	останавливаться 	VERB	0
+1230	a pay	плата, заработная плата 	NOUN	0
+1231	to pay	платить 	VERB	0
+1232	a payment	платеж, оплата 	NOUN	0
+1233	a peace	мир 	NOUN	0
+1234	peaceful	мирный, миролюбивый 	OTHER	0
+1235	a pen	ручка 	NOUN	0
+1236	a pencil	карандаш 	NOUN	0
+1237	a people	люди 	NOUN	0
+1238	perfect	совершенный 	OTHER	0
+1239	to perform	выполнять, выступать 	VERB	0
+1240	a performance	выступление, выполнение 	NOUN	0
+1241	to perhaps	может быть, возможно 	VERB	0
+1242	a period	период 	NOUN	0
+1243	a permission	позволение, разрешение 	NOUN	0
+1244	a person	человек, личность 	NOUN	0
+1245	personal	личный 	OTHER	0
+1246	to persuade	убеждать 	VERB	0
+1247	a petrol	бензин 	NOUN	0
+1248	a phone	телефон 	NOUN	0
+1249	to phone	звонить по телефону 	VERB	0
+1250	physical	физический, материальный 	OTHER	0
+1251	to pick	выбирать, срывать (плоды), ковырять 	VERB	0
+1252	a picture	картина, рисунок 	NOUN	0
+1253	a piece	кусок, часть 	NOUN	0
+1254	a pile	куча, кипа 	NOUN	0
+1255	a pin	кнопка, гвоздь 	NOUN	0
+1256	to pinch	щипать, красть 	VERB	0
+1257	a pipe	труба, трубопровод 	NOUN	0
+1258	a pity	жалость 	NOUN	0
+1259	a place	пространство, место, площадь 	NOUN	0
+1260	plain	чистый, одноцветный, понятный 	OTHER	0
+1261	a plan	план 	NOUN	0
+1262	to plan	планировать 	VERB	0
+1263	a plant	растение, завод 	NOUN	0
+1264	a plastic	пластик, пластмасса 	NOUN	0
+1265	a plate	тарелка 	NOUN	0
+1266	a platform	платформа, трибуна 	NOUN	0
+1267	a play	пьеса, игра 	NOUN	0
+1268	to play	играть 	VERB	0
+1269	pleasant	приятный, радостный 	OTHER	0
+1270	please	пожалуйста! 	OTHER	0
+1271	to please	радовать, угождать 	VERB	0
+1272	pleased	довольный 	OTHER	0
+1273	a pleasure	удовольствие 	NOUN	0
+1274	a plenty	множество, избыток 	NOUN	0
+1275	plenty	вполне, довольно  	OTHER	0
+1276	a pocket	карман 	NOUN	0
+1277	a point	точка, цель, место 	NOUN	0
+1278	to point	указывать, показывать 	VERB	0
+1279	a poison	яд 	NOUN	0
+1280	a police	полиция 	NOUN	0
+1281	polite	вежливый 	OTHER	0
+1282	a politics	политика 	NOUN	0
+1283	a pollution	загрязнение 	NOUN	0
+1284	a pool	бассейн, лужа 	NOUN	0
+1285	poor	бедный 	OTHER	0
+1286	popular	популярный 	OTHER	0
+1287	a port	порт 	NOUN	0
+1288	a position	положение, место 	NOUN	0
+1289	positive	уверенный, позитивный 	OTHER	0
+1290	a possession	владение, обладание 	NOUN	0
+1291	a possibility	вероятность, возможность 	NOUN	0
+1292	possible	вероятный, возможный 	OTHER	0
+1293	to possibly	возможно, может быть 	VERB	0
+1294	a post	почта 	NOUN	0
+1295	to post	посылать по почте 	VERB	0
+1296	a pot	горшок, банка 	NOUN	0
+1297	to pour	лить, наливать 	VERB	0
+1298	a power	сила 	NOUN	0
+1299	powerful	сильный, крепкий 	OTHER	0
+1300	practical	практический, практичный 	OTHER	0
+1301	a practice	практика 	NOUN	0
+1302	to practise	практиковать (ся), тренироваться 	VERB	0
+1303	to praise	хвалить 	VERB	0
+1304	precise	точный, определенный 	OTHER	0
+1305	to prefer	предпочитать 	VERB	0
+1306	a preparation	подготовка, приготовление 	NOUN	0
+1307	to prepare	готовить, подготавливать 	VERB	0
+1308	a present	подарок 	NOUN	0
+1309	to present	преподносить, дарить (with) 	VERB	0
+1310	present	присутствующий, настоящий 	OTHER	0
+1311	a press	пресса 	NOUN	0
+1312	to press	нажимать, сжимать 	VERB	0
+1313	a pressure	давление, воздействие 	NOUN	0
+1314	to pretend	притворяться 	VERB	0
+1315	pretty	хорошенький, симпатичный 	OTHER	0
+1316	pretty	достаточно, довольно 	OTHER	0
+1317	to prevent	предотвращать, мешать 	VERB	0
+1318	previous	предыдущий, предшествующий 	OTHER	0
+1319	a price	цена 	NOUN	0
+1320	a pride	гордость 	NOUN	0
+1321	a principle	принцип 	NOUN	0
+1322	to print	печатать 	VERB	0
+1323	a priority	преимущество, приоритет 	NOUN	0
+1324	private	частный 	OTHER	0
+1325	a prize	приз, премия 	NOUN	0
+1326	probably	вероятно, наверное 	OTHER	0
+1327	a problem	проблема 	NOUN	0
+1328	a process	процесс 	NOUN	0
+1329	to produce	производить, создавать 	VERB	0
+1330	a production	изготовление, продукция 	NOUN	0
+1331	professional	профессиональный 	OTHER	0
+1332	a profit	прибыль 	NOUN	0
+1333	a programme	программа 	NOUN	0
+1334	a progress	прогресс 	NOUN	0
+1335	a project	проект 	NOUN	0
+1336	a promise	обещание 	NOUN	0
+1337	to promise	обещать 	VERB	0
+1338	to proNOUNce	произносить, заявлять 	VERB	0
+1339	a pronunciation	произношение 	NOUN	0
+1340	a proof	подтверждение, доказательство 	NOUN	0
+1341	proper	присущий, правильный 	OTHER	0
+1342	properly	должным образом, надлежаще 	OTHER	0
+1343	to protect	защищать, охранять 	VERB	0
+1344	a protection	защита, охрана 	NOUN	0
+1345	a protest	протест, несогласие 	NOUN	0
+1346	to protest	протестовать, возражать 	VERB	0
+1347	proud	гордый 	OTHER	0
+1348	to prove	доказывать, оказываться 	VERB	0
+1349	to provide	снабжать, обеспечивать 	VERB	0
+1350	public	общественный, государственный 	OTHER	0
+1351	a public	публика, общественность 	NOUN	0
+1352	to pull	тянуть, дергать 	VERB	0
+1353	to pump	качать, выкачивать 	VERB	0
+1354	to punish	наказывать, штрафовать 	VERB	0
+1355	a punishment	кара, наказание 	NOUN	0
+1356	a pupil	ученик 	NOUN	0
+1357	pure	чистый, беспримесный 	OTHER	0
+1358	a purpose	цель, намерение 	NOUN	0
+1359	to push	толкать (ся) 	VERB	0
+1360	to put	класть, положить 	VERB	0
+1361	a quality	качество 	NOUN	0
+1362	a quantity	количество 	NOUN	0
+1363	a quarter	четверть, четвертая часть 	NOUN	0
+1364	a question	вопрос 	NOUN	0
+1365	to question	расспрашивать, допрашивать 	VERB	0
+1366	quick	быстрый, скорый 	OTHER	0
+1367	quickly	быстро 	OTHER	0
+1368	quiet	тихий, бесшумный 	OTHER	0
+1369	quite	совершенно, вполне, совсем 	OTHER	0
+1370	a race	гонка, раса 	NOUN	0
+1371	a radio	радио 	NOUN	0
+1372	a rain	дождь 	NOUN	0
+1373	to rain	идти, литься (о дожде) 	VERB	0
+1374	to raise	поднимать, собирать 	VERB	0
+1375	to range	ряд, линия 	VERB	0
+1376	a rank	звание, чин 	NOUN	0
+1377	rare	редкий, нечастый 	OTHER	0
+1378	rarely	нечасто, редко 	OTHER	0
+1379	a rate	показатель, степень, темп 	NOUN	0
+1380	rather	достаточно, весьма 	OTHER	0
+1381	raw	сырой, необработанный 	OTHER	0
+1382	to reach	добираться до, протягивать 	VERB	0
+1383	to react	реагировать, отзываться 	VERB	0
+1384	a reaction	реакция 	NOUN	0
+1385	to read	читать 	VERB	0
+1386	ready	готовый 	OTHER	0
+1387	real	реальный 	OTHER	0
+1388	to realize	понимать, осознавать 	VERB	0
+1389	really	действительно, в самом деле 	OTHER	0
+1390	a reason	причина, смысл 	NOUN	0
+1391	reasonable	разумный, благоразумный 	OTHER	0
+1392	to receive	получать 	VERB	0
+1393	recent	недавний, последний 	OTHER	0
+1394	recently	недавно 	OTHER	0
+1395	to recognize	признавать, узнавать 	VERB	0
+1396	to recommend	рекомендовать 	VERB	0
+1397	a record	запись, рекорд 	NOUN	0
+1398	to record	записывать 	VERB	0
+1399	to recover	выздоравливать, восстанавливать(ся) 	VERB	0
+1400	a recovery	выздоровление, восстановление 	NOUN	0
+1401	a reduce	понижать, сокращать 	NOUN	0
+1402	a reduction	сокращение, понижение 	NOUN	0
+1403	to refer	упоминать 	VERB	0
+1404	to refuse	отказать (ся), отклонять 	VERB	0
+1405	a regard	внимание, уважение 	NOUN	0
+1406	a region	область, регион 	NOUN	0
+1407	regional	бластной, районный, региональный 	OTHER	0
+1408	to regret	сожалеть 	VERB	0
+1409	regular	регулярный, правильный 	OTHER	0
+1410	regularly	регулярно 	OTHER	0
+1411	to reject	отклонять, отказывать (ся) 	VERB	0
+1412	related	связанный, родственный 	OTHER	0
+1413	a relation	связь, родственник 	NOUN	0
+1414	a relationship	родство, взаимоотношение 	NOUN	0
+1415	a relative	"родственник; родственница "	NOUN	0
+1416	to relax	расслабляться, отдыхать 	VERB	0
+1417	to release	освобождать (ся), отпускать 	VERB	0
+1418	reliable	надежный, верный 	OTHER	0
+1419	a relief	облегчение 	NOUN	0
+1420	to rely	полагаться, зависеть 	VERB	0
+1421	to remain	оставаться, находиться 	VERB	0
+1422	a remark	замечание, высказывание 	NOUN	0
+1423	to remember	помнить, вспоминать 	VERB	0
+1424	to remove	перемещать, снимать 	VERB	0
+1425	to rent	брать в аренду, сдавать в аренду 	VERB	0
+1426	to repair	ремонтировать, чинить 	VERB	0
+1427	to repeat	повторять 	VERB	0
+1428	to replace	заменять, замещать 	VERB	0
+1429	to reply	отвечать, отзываться 	VERB	0
+1430	a reply	ответ, отклик 	NOUN	0
+1431	a report	доклад, отчет 	NOUN	0
+1432	to report	сообщать, докладывать 	VERB	0
+1433	to represent	представлять, изображать 	VERB	0
+1434	to rescue	спасать 	VERB	0
+1435	to reserve	резервировать, сберегать 	VERB	0
+1436	a respect	уважение 	NOUN	0
+1437	to respect	уважать 	VERB	0
+1438	a responsibility	ответственность 	NOUN	0
+1439	responsible	ответственный 	OTHER	0
+1440	a rest	остаток, отдых 	NOUN	0
+1441	to rest	отдыхать, опираться 	VERB	0
+1442	a result	результат 	NOUN	0
+1443	to return	возвращаться 	VERB	0
+1444	rich	богатый 	OTHER	0
+1445	to rid	освобождать, избавлять 	VERB	0
+1446	to ride	ехать 	VERB	0
+1447	right	право, правда 	OTHER	0
+1448	right	правый, правильный 	OTHER	0
+1449	right	правильно 	OTHER	0
+1450	a ring	кольцо, круг 	NOUN	0
+1451	to ring	звонить, звенеть 	VERB	0
+1452	to rise	подниматься 	VERB	0
+1453	a risk	риск 	NOUN	0
+1454	to risk	рисковать 	VERB	0
+1455	a road	дорога 	NOUN	0
+1456	to rob	грабить, воровать 	VERB	0
+1457	to roll	катить (ся), вращаться 	VERB	0
+1458	a roof	крыша 	NOUN	0
+1459	a room	комната 	NOUN	0
+1460	rough	грубый 	OTHER	0
+1461	round	круглый 	OTHER	0
+1462	round	вокруг, кругом 	OTHER	0
+1463	a row	ряд, линия 	NOUN	0
+1464	to rub	тереть (ся) 	VERB	0
+1465	a rubbish	мусор, ерунда 	NOUN	0
+1466	a rule	правило 	NOUN	0
+1467	a run	бег 	NOUN	0
+1468	to run	бежать 	VERB	0
+1469	to run away	убежать 	VERB	0
+1470	to run into	наталкиваться, сталкиваться 	VERB	0
+1471	to run out 	кончаться 	VERB	0
+1472	to run over	переехать, задавить 	VERB	0
+1473	a rush	спешка, суета 	NOUN	0
+1474	to rush	мчаться, торопить 	VERB	0
+1475	to sad	грустный, печальный 	VERB	0
+1476	safe	безопасный 	OTHER	0
+1477	a safety	безопасность, сохранность 	NOUN	0
+1478	to sail	плавать, совершать плавание 	VERB	0
+1479	a sale	продажа, распродажа 	NOUN	0
+1480	same	тот (же) самый, одинаковый 	OTHER	0
+1481	satisfactory	удовлетворительный, достаточный 	OTHER	0
+1482	satisfied	удовлетворенный, довольный 	OTHER	0
+1483	to save	спасать, охранять 	VERB	0
+1484	to say	сказать, говорить 	VERB	0
+1485	a scale	вес, шкала, масштаб 	NOUN	0
+1486	to scare	пугать 	VERB	0
+1487	scared	испуганный 	OTHER	0
+1488	a scene	сцена, пейзаж 	NOUN	0
+1489	a schedule	список, перечень 	NOUN	0
+1490	a scheme	проект, план 	NOUN	0
+1491	a school	школа 	NOUN	0
+1492	a science	наука 	NOUN	0
+1493	a score	счет 	NOUN	0
+1494	to score	выигрывать 	VERB	0
+1495	a scrap	клочок, кусочек 	NOUN	0
+1496	to scrape	скоблить, обдирать, царапать 	VERB	0
+1497	to scream	кричать, вопить 	VERB	0
+1498	a scream	крик 	NOUN	0
+1499	a sea	море 	NOUN	0
+1500	a search	поиск, розыск 	NOUN	0
+1501	to search	искать, разыскивать 	VERB	0
+1502	a season	сезон, время года 	NOUN	0
+1503	a seat	сиденье, место 	NOUN	0
+1504	second	второй 	OTHER	0
+1505	a second	секунда 	NOUN	0
+1506	a secret	секрет, тайна 	NOUN	0
+1507	secret	секретный, тайный 	OTHER	0
+1508	a section	секция 	NOUN	0
+1509	to see	видеть 	VERB	0
+1510	to seem	казаться 	VERB	0
+1511	to sell	продавать 	VERB	0
+1512	to send	посылать, отправлять 	VERB	0
+1513	a sense	чувство, смысл 	NOUN	0
+1514	sensible	благоразумный, здравомыслящий 	OTHER	0
+1515	sensitive	чувствительный, впечатлительный 	OTHER	0
+1516	a sentence	предложение, приговор 	NOUN	0
+1517	separate	отдельный 	OTHER	0
+1518	to separate	разделять, расставаться 	VERB	0
+1519	serious	серьезный, важный 	OTHER	0
+1520	seriously	серьезно, обоснованно 	OTHER	0
+1521	to serve	подавать, обслуживать, служить 	VERB	0
+1522	a service	служба, сервис 	NOUN	0
+1523	to set	набор, комплект 	VERB	0
+1524	to set	ставить, класть, устанавливать 	VERB	0
+1525	to settle	улаживать,поселить(ся), устроить(ся) 	VERB	0
+1526	several	несколько 	OTHER	0
+1527	a shade	тень, полумрак 	NOUN	0
+1528	a shadow	тень 	NOUN	0
+1529	to shake	трясти (сь), встряхивать 	VERB	0
+1530	to shall	следует 	VERB	0
+1531	shallow	мелкий, мелководный 	OTHER	0
+1532	a shame	стыд 	NOUN	0
+1533	a shape	форма, очертание 	NOUN	0
+1534	to share	делить (ся), разделять 	VERB	0
+1535	a share	доля, часть 	NOUN	0
+1536	sharp	острый, резкий 	OTHER	0
+1537	she	она 	OTHER	0
+1538	a shelter	приют, убежище 	NOUN	0
+1539	to shine	сиять, светить (ся), блестеть 	VERB	0
+1540	a shock	удар, толчок, шок 	NOUN	0
+1541	to shock	потрясать, шокировать 	VERB	0
+1542	to shoot	стрелять 	VERB	0
+1543	a shop	магазин 	NOUN	0
+1544	to shop	делать покупки 	VERB	0
+1545	a shopping	посещение магазина 	NOUN	0
+1546	short	короткий, низкий 	OTHER	0
+1547	should	выражает долженствование 	OTHER	0
+1548	a shoulder	плечо 	NOUN	0
+1549	a shout	крик 	NOUN	0
+1550	to shout	кричать 	VERB	0
+1551	to show	показывать, демонстрировать 	VERB	0
+1552	a show	шоу, показ 	NOUN	0
+1553	to shrink	уменьшать (ся), сокращать (ся) 	VERB	0
+1554	to shut	закрывать (ся) 	VERB	0
+1555	shut	закрытый 	OTHER	0
+1556	sick	больной 	OTHER	0
+1557	a side	сторона 	NOUN	0
+1558	side	боковой 	OTHER	0
+1559	a sight	вид, зрение, достопримечательность 	NOUN	0
+1560	a sign	"знак; символ "	NOUN	0
+1561	to sign	подписывать (ся) 	VERB	0
+1562	silent	молчаливый, тихий 	OTHER	0
+1563	similar	подобный, похожий 	OTHER	0
+1564	simple	простой, легкий 	OTHER	0
+1565	since	с тех пор 	OTHER	0
+1566	to sing	петь 	VERB	0
+1567	single	единственный, отдельный 	OTHER	0
+1568	to sink	тонуть, погружаться, опускаться 	VERB	0
+1569	a sink	раковина 	NOUN	0
+1570	a sister	сестра 	NOUN	0
+1571	to sit	сидеть, садиться 	VERB	0
+1572	a situation	положение, ситуация 	NOUN	0
+1573	a size	размер 	NOUN	0
+1574	a skill	умение, навык 	NOUN	0
+1575	a skin	кожа, кожура 	NOUN	0
+1576	a skirt	юбка 	NOUN	0
+1577	a sky	небеса, небо 	NOUN	0
+1578	to sleep	спать 	VERB	0
+1579	a sleep	сон 	NOUN	0
+1580	a slice	ломтик 	NOUN	0
+1581	to slice	нарезать ломтиками 	VERB	0
+1582	to slide	скользить, засовывать 	VERB	0
+1583	slight	легкий, незначительный 	OTHER	0
+1584	slightly	незначительно, несущественно 	OTHER	0
+1585	to slip	поскользнуться 	VERB	0
+1586	slow	медленный 	OTHER	0
+1587	slowly	медленно 	OTHER	0
+1588	small	маленький 	OTHER	0
+1589	smart	нарядный, шикарный 	OTHER	0
+1590	to smell	пахнуть, нюхать 	VERB	0
+1591	a smell	запах, обоняние 	NOUN	0
+1592	to smile	улыбаться 	VERB	0
+1593	a smile	улыбка 	NOUN	0
+1594	a smoke	дым 	NOUN	0
+1595	smooth	гладкий, ровный 	OTHER	0
+1596	a snow	снег 	NOUN	0
+1597	to snow	идти (о снеге) 	VERB	0
+1598	so	итак, это, так 	OTHER	0
+1599	so	так, таким образом, также 	OTHER	0
+1600	to soak	впитывать (ся) 	VERB	0
+1601	soft	мягкий, нежный 	OTHER	0
+1602	a software	компьютерные программы 	NOUN	0
+1603	a soil	грунт, почва 	NOUN	0
+1604	to solve	решать, разрешать 	VERB	0
+1605	some	какой-либо, какой-нибудь, несколько 	OTHER	0
+1606	somebody	кто-нибудь, кто-то 	OTHER	0
+1607	somehow	так или иначе, как-нибудь 	OTHER	0
+1608	someone	кто-нибудь, кто-то 	OTHER	0
+1609	something	кое-что, что-нибудь, что-то 	OTHER	0
+1610	sometimes	иногда 	OTHER	0
+1611	somewhere	где-то, где-нибудь, куда-нибудь 	OTHER	0
+1612	a song	песня 	NOUN	0
+1613	soon	скоро, вскоре 	OTHER	0
+1614	a sore	боль 	NOUN	0
+1615	sorry	огорченный, сожалеющий 	OTHER	0
+1616	sort	вид, сорт, тип 	OTHER	0
+1617	to sort	сортировать, классифицировать 	VERB	0
+1618	a sound	звук 	NOUN	0
+1619	to sound	звучать 	VERB	0
+1620	a space	пространство, космос 	NOUN	0
+1621	spare	запасной, лишний 	OTHER	0
+1622	to speak	говорить, разговаривать 	VERB	0
+1623	special	особый, специальный 	OTHER	0
+1624	a speech	речь 	NOUN	0
+1625	a speed	скорость 	NOUN	0
+1626	to spend	тратить, проводить 	VERB	0
+1627	to spill	проливать (ся), рассыпать (ся) 	VERB	0
+1628	to spin	крутить (ся), вертеть (ся) 	VERB	0
+1629	a spite	злость 	NOUN	0
+1630	to splash	брызгать (ся), плескать (ся) 	VERB	0
+1631	to split	раскалывать (ся), разделять (ся) 	VERB	0
+1632	to spoil	портить (ся), баловать 	VERB	0
+1633	a sport	спорт 	NOUN	0
+1634	a spot	место, пятно 	NOUN	0
+1635	to spray	брызгать, распылять 	VERB	0
+1636	to spread	распространять (ся), простираться 	VERB	0
+1637	a spring	весна 	NOUN	0
+1638	to spring	отскочить, распрямиться 	VERB	0
+1639	a square	квадрат, площадь 	NOUN	0
+1640	square	квадратный 	OTHER	0
+1641	to squash	раздавливать, сжимать 	VERB	0
+1642	to squeeze	выжимать (ся), выдавливать 	VERB	0
+1643	a stage	ступень, сцена 	NOUN	0
+1644	a stamp	марка, штамп 	NOUN	0
+1645	to stamp	топать ногой, штамповать 	VERB	0
+1646	to stand	стоять 	VERB	0
+1647	a standard	стандарт 	NOUN	0
+1648	a star	звезда 	NOUN	0
+1649	to stare	вглядываться, уставиться 	VERB	0
+1650	a start	начало 	NOUN	0
+1651	to start	начинать 	VERB	0
+1652	a state	состояние, государство 	NOUN	0
+1653	a statement	заявление, утверждение 	NOUN	0
+1654	to stay	оставаться, останавливаться 	VERB	0
+1655	steady	устойчивый, постоянный 	OTHER	0
+1656	to steal	воровать, красть 	VERB	0
+1657	a steam	пар 	NOUN	0
+1658	steep	крутой 	OTHER	0
+1659	to steer	направлять, управлять 	VERB	0
+1660	a step	шаг, след 	NOUN	0
+1661	to stick	приклеивать (ся), втыкать 	VERB	0
+1662	sticky	клейкий, липкий 	OTHER	0
+1663	stiff	жесткий, плотный 	OTHER	0
+1664	still	до сих пор, все еще, по-прежнему 	OTHER	0
+1665	still	тихий, неподвижный 	OTHER	0
+1666	to sting	жалить 	VERB	0
+1667	to stir	размешивать, шевелить (ся) 	VERB	0
+1668	a stone	камень 	NOUN	0
+1669	a stop	остановка 	NOUN	0
+1670	to stop	останавливать (ся) 	VERB	0
+1671	a store	магазин, склад, запас 	NOUN	0
+1672	to store	запасать, хранить 	VERB	0
+1673	a storm	шторм, гроза 	NOUN	0
+1674	a story	рассказ, история 	NOUN	0
+1675	straight	прямой 	OTHER	0
+1676	straight	прямо 	OTHER	0
+1677	strange	странный, незнакомый 	OTHER	0
+1678	a stranger	незнакомец 	NOUN	0
+1679	a street	улица 	NOUN	0
+1680	a strength	сила, прочность 	NOUN	0
+1681	to stretch	тянуть (ся), растягивать (ся) 	VERB	0
+1682	strict	строгий 	OTHER	0
+1683	to strike	ударять (ся) 	VERB	0
+1684	a strike	забастовка 	NOUN	0
+1685	a string	веревка, шнурок 	NOUN	0
+1686	strong	сильный 	OTHER	0
+1687	to study	изучать, заниматься 	VERB	0
+1688	a study	изучение, исследование, кабинет 	NOUN	0
+1689	stupid	глупый, тупой 	OTHER	0
+1690	a style	стиль 	NOUN	0
+1691	a subject	предмет, тема 	NOUN	0
+1692	a substance	вещество, субстанция 	NOUN	0
+1693	to succeed	удаваться 	VERB	0
+1694	a success	успех, достижение 	NOUN	0
+1695	successful	удачный, успешный 	OTHER	0
+1696	such	такой 	OTHER	0
+1697	sudden	внезапный, неожиданный 	OTHER	0
+1698	suddenly	вдруг, внезапно 	OTHER	0
+1699	to suffer	страдать 	VERB	0
+1700	to suggest	предлагать, советовать 	VERB	0
+1701	a suggestion	предложение, совет 	NOUN	0
+1702	a suit	костюм 	NOUN	0
+1703	to suit	подходить 	VERB	0
+1704	a summer	лето 	NOUN	0
+1705	a supply	поставка, предложение 	NOUN	0
+1706	to support	поддерживать 	VERB	0
+1707	to suppose	допускать, полагать 	VERB	0
+1708	sure	уверенный 	OTHER	0
+1709	sure	конечно, безусловно 	OTHER	0
+1710	a surface	поверхность 	NOUN	0
+1711	a surprise	сюрприз, удивление 	NOUN	0
+1712	surprised	удивленный 	OTHER	0
+1713	surprising	неожиданный, внезапный 	OTHER	0
+1714	to survive	пережить, выжить 	VERB	0
+1715	to swallow	глотать 	VERB	0
+1716	to sweep	мести, выметать 	VERB	0
+1717	sweet	сладкий 	OTHER	0
+1718	to swim	плавать 	VERB	0
+1719	a swimming	плавание 	NOUN	0
+1720	to swing	качать (ся) 	VERB	0
+1721	a switch	выключатель 	NOUN	0
+1722	to switch	переключать 	VERB	0
+1723	a system	система 	NOUN	0
+1724	a table	стол 	NOUN	0
+1725	to take	брать 	VERB	0
+1726	to take away	убирать, отнимать 	VERB	0
+1727	to take back	отдавать, возвращать 	VERB	0
+1728	to take off	снимать одежду, взлетать 	VERB	0
+1729	to take out	вынимать, брать с собой 	VERB	0
+1730	to take over	принимать дела от другого 	VERB	0
+1731	a talk	разговор, беседа 	NOUN	0
+1732	to talk	разговаривать, болтать 	VERB	0
+1733	to talk back	спорить, возражать 	VERB	0
+1734	to talk into	уговорить, убедить 	VERB	0
+1735	to talk out of	отговорить, разубедить 	VERB	0
+1736	tall	высокий 	OTHER	0
+1737	to tap	(по) стучать, (по) хлопать 	VERB	0
+1738	a tap	кран 	NOUN	0
+1739	a tape	(магнитная) лента 	NOUN	0
+1740	a target	цель, мишень 	NOUN	0
+1741	a task	задание, задача 	NOUN	0
+1742	a taste	вкус 	NOUN	0
+1743	to taste	пробовать (на вкус) 	VERB	0
+1744	a tax	налог, пошлина, сбор 	NOUN	0
+1745	to teach	преподавать, обучать 	VERB	0
+1746	a team	команда 	NOUN	0
+1747	to tear	рвать (ся), отрывать (ся) 	VERB	0
+1748	a telephone	телефон 	NOUN	0
+1749	a television	телевизор 	NOUN	0
+1750	to tell	говорить, рассказывать 	VERB	0
+1751	a temper	характер, настроение 	NOUN	0
+1752	a temperature	температура 	NOUN	0
+1753	to tend	иметь тенденцию, стремиться 	VERB	0
+1754	tense	возбужденный, напряженный 	OTHER	0
+1755	a term	срок, семестр 	NOUN	0
+1756	terrible	страшный, ужасный 	OTHER	0
+1757	a test	тест, проверка 	NOUN	0
+1758	to test	испытывать, тестировать 	VERB	0
+1759	than	чем 	OTHER	0
+1760	to thank	благодарить 	VERB	0
+1761	thanks	спасибо 	OTHER	0
+1762	thank you	спасибо 	OTHER	0
+1763	that	тот, та, то, те 	OTHER	0
+1764	that	так, до такой степени 	OTHER	0
+1765	the	определенный артикль 	OTHER	0
+1766	their	их 	OTHER	0
+1767	theirs	их 	OTHER	0
+1768	them	им, их 	OTHER	0
+1769	themselves	себя, себе, сами 	OTHER	0
+1770	then	затем, потом 	OTHER	0
+1771	there	там, туда 	OTHER	0
+1772	there	есть, имеются 	OTHER	0
+1773	they	они 	OTHER	0
+1774	thick	толстый, густой 	OTHER	0
+1775	thin	тонкий, редкий 	OTHER	0
+1776	a thing	вещь, предмет 	NOUN	0
+1777	to think	думать, полагать 	VERB	0
+1778	to think of	подумать, предполагать 	VERB	0
+1779	to think over	обдумывать 	VERB	0
+1780	to think through	продумывать 	VERB	0
+1781	to thirsty	испытывающий жажду 	VERB	0
+1782	this	этот, эта, это 	OTHER	0
+1783	this	данный 	OTHER	0
+1784	thorough	тщательный, исчерпывающий 	OTHER	0
+1785	though	хотя, однако 	OTHER	0
+1786	a thought	мысль, размышление 	NOUN	0
+1787	to threaten	угрожать 	VERB	0
+1788	through	через, сквозь, насквозь 	OTHER	0
+1789	through	свободный 	OTHER	0
+1790	throughout	"по всему, повсюду; все время "	OTHER	0
+1791	to throw	бросать, кидать 	VERB	0
+1792	thumb	большой палец (руки) 	OTHER	0
+1793	a ticket	билет 	NOUN	0
+1794	tidy	аккуратный, опрятный 	OTHER	0
+1795	to tidy	убирать, приводить в порядок 	VERB	0
+1796	to tie	связывать, привязывать 	VERB	0
+1797	tight	тесный, тугой 	OTHER	0
+1798	a time	время 	NOUN	0
+1799	a tip	кончик, чаевые 	NOUN	0
+1800	to tip	наклонять (ся), опрокидывать 	VERB	0
+1801	tired	усталый 	OTHER	0
+1802	to	приинфинитивная частица 	OTHER	0
+1803	to	к, в, на, до 	OTHER	0
+1804	today	сегодня, в наши дни 	OTHER	0
+1805	together	вместе 	OTHER	0
+1806	tomorrow	завтра 	OTHER	0
+1807	a tone	тон, звук 	NOUN	0
+1808	a tongue	язык 	NOUN	0
+1809	tonight	сегодня вечером 	OTHER	0
+1810	too	слишком, тоже 	OTHER	0
+1811	a tool	(рабочий) инструмент 	NOUN	0
+1812	a tooth	зуб 	NOUN	0
+1813	a top	верхушка, верх, крышка 	NOUN	0
+1814	top	верхний, основной 	OTHER	0
+1815	total	абсолютный, весь, всеобщий 	OTHER	0
+1816	a total	целое, сумма, итог 	NOUN	0
+1817	a touch	прикосновение, касание 	NOUN	0
+1818	to touch	прикасаться, трогать 	VERB	0
+1819	tough	жесткий, трудный, выносливый 	OTHER	0
+1820	a tour	путешествие, экскурсия 	NOUN	0
+1821	towards	по направлению к, по отношению к 	OTHER	0
+1822	a town	город 	NOUN	0
+1823	a track	тропинка, трек 	NOUN	0
+1824	a trade	торговля 	NOUN	0
+1825	to trade	торговать 	VERB	0
+1826	a tradition	традиция 	NOUN	0
+1827	a traffic	движение, транспорт 	NOUN	0
+1828	a tragedy	несчастье, трагедия 	NOUN	0
+1829	a train	поезд 	NOUN	0
+1830	to train	тренировать (ся), обучать (ся) 	VERB	0
+1831	to translate	переводить 	VERB	0
+1832	transparent	прозрачный, просвечивающий 	OTHER	0
+1833	a transport	перевозка, транспорт 	NOUN	0
+1834	a trap	капкан, ловушка, обман 	NOUN	0
+1835	to trap	задерживать, останавливать 	VERB	0
+1836	to travel	путешествовать 	VERB	0
+1837	to tread	наступать, топтать 	VERB	0
+1838	to treat	обращаться, относиться, лечить 	VERB	0
+1839	a treat	радость, удовольствие 	NOUN	0
+1840	a treatment	лечение,обращение 	NOUN	0
+1841	a trial	судебный процесс, суд 	NOUN	0
+1842	a trick	обман, хитрость 	NOUN	0
+1843	to trick	обманывать, надувать 	VERB	0
+1844	a trip	путешествие, поездка 	NOUN	0
+1845	to trip	спотыкаться, ставить подножку 	VERB	0
+1846	a trouble	беспокойство, неприятность 	NOUN	0
+1847	a trousers	брюки, штаны 	NOUN	0
+1848	true	верный, правильный 	OTHER	0
+1849	to trust	верить, доверять (ся) 	VERB	0
+1850	a trust	вера, доверие 	NOUN	0
+1851	a truth	правда 	NOUN	0
+1852	to try	пытаться, стараться 	VERB	0
+1853	a tune	мелодия 	NOUN	0
+1854	a turn	очередь, поворот 	NOUN	0
+1855	to turn	поворачивать (ся) 	VERB	0
+1856	to turn away	прогонять, не пускать 	VERB	0
+1857	to turn back	обернуться, возвращаться 	VERB	0
+1858	to turn down	убавить, отказывать 	VERB	0
+1859	to turn into	превращать во (что-л.) 	VERB	0
+1860	to turn off	сворачивать, выключать 	VERB	0
+1861	to turn on	включать 	VERB	0
+1862	to turn out	оказаться, выключать 	VERB	0
+1863	to turn over	переворачивать (ся), переключить 	VERB	0
+1864	to turn up	усиливать, увеличивать, находить 	VERB	0
+1865	to twist	крутить, сплетать (ся), обхватывать 	VERB	0
+1866	a type	тип, класс, род 	NOUN	0
+1867	typical	типичный 	OTHER	0
+1868	unable	неспособный 	OTHER	0
+1869	uncertain	неопределенный, неуверенный 	OTHER	0
+1870	uncomfortable	неудобный 	OTHER	0
+1871	under	вниз, ниже, под 	OTHER	0
+1872	under	при, под 	OTHER	0
+1873	underneath	вниз, внизу, ниже 	OTHER	0
+1874	underneath	вниз, внизу, ниже, под 	OTHER	0
+1875	to understand	понимать 	VERB	0
+1876	to undo	развязывать, расстегивать 	VERB	0
+1877	unfair	несправедливый 	OTHER	0
+1878	unfortunate	неудачливый, несчастливый 	OTHER	0
+1879	unhappy	несчастливый, несчастный 	OTHER	0
+1880	an uniform	форма, форменная одежда 	NOUN	0
+1881	an union	объединение, союз 	NOUN	0
+1882	an unit	часть, единица измерения 	NOUN	0
+1883	to unite	соединять (ся), объединять (ся) 	VERB	0
+1884	an university	университет 	NOUN	0
+1885	unkind	злой, недобрый 	OTHER	0
+1886	unless	если не, пока не 	OTHER	0
+1887	unlikely	маловероятный, невероятно 	OTHER	0
+1888	unlucky	несчастливый, неудачный 	OTHER	0
+1889	unpleasant	неприятный, противный 	OTHER	0
+1890	until	до, (до тех пор) пока (не) 	OTHER	0
+1891	unusual	необычный, редкий 	OTHER	0
+1892	up	вверх, наверх, наверху, на 	OTHER	0
+1893	upon = on	на 	OTHER	0
+1894	upset	расстроенный, огорченный 	OTHER	0
+1895	upstairs	вверх, наверху, в верхнем этаже 	OTHER	0
+1896	upwards	снизу – вверх, наверх 	OTHER	1
+1897	urgent	срочный, неотложный 	OTHER	0
+1898	us	нас 	OTHER	0
+1899	an use	употребление, использование 	OTHER	0
+1900	to use	использовать, пользоваться 	VERB	0
+1901	used	подержанный, использованный 	OTHER	0
+1902	usual	обыкновенный, обычный 	OTHER	0
+1903	usually	обычно 	OTHER	0
+1904	valuable	ценный, полезный 	OTHER	0
+1905	a value	ценность, стоимость 	NOUN	0
+1906	to vanish	исчезать, пропадать 	VERB	0
+1907	a variety	разновидность, разнообразие 	NOUN	0
+1908	various	различный, разнообразный 	OTHER	0
+1909	very	очень 	OTHER	0
+1910	a view	точка зрения, мнение, пейзаж 	NOUN	0
+1911	a violence	жестокость, насилие 	NOUN	0
+1912	violent	насильственный 	OTHER	0
+1913	a vision	зрение, представление 	NOUN	0
+1914	to visit	навещать, посещать 	VERB	0
+1915	a visit	посещение, визит 	NOUN	0
+1916	a voice	голос 	NOUN	0
+1917	a vote	голосование 	NOUN	0
+1918	to wait	ждать 	VERB	0
+1919	to wake	просыпаться, будить 	VERB	0
+1920	a walk	прогулка 	NOUN	0
+1921	to walk	гулять, идти (пешком) 	VERB	0
+1922	a wall	стена 	NOUN	0
+1923	to wander	бродить, блуждать 	VERB	0
+1924	to want	хотеть 	VERB	0
+1925	a war	война 	NOUN	0
+1926	warm	теплый 	OTHER	0
+1927	to warn	предупреждать, предостерегать 	VERB	0
+1928	a warning	предупреждение, предостережение 	NOUN	0
+1929	to wash	мыть (ся), стирать 	VERB	0
+1930	a wash	мытье, мойка, стирка 	NOUN	0
+1931	to waste	тратить 	VERB	0
+1932	a waste	излишняя трата, отбросы 	NOUN	0
+1933	to watch	наблюдать, смотреть 	VERB	0
+1934	a watch	часы (наручные), наблюдение 	NOUN	0
+1935	a water	вода 	NOUN	0
+1936	to wave	махать, колыхаться 	VERB	0
+1937	a wave	волна, взмах 	NOUN	0
+1938	a way	дорога, путь, направление 	NOUN	0
+1939	we	мы 	OTHER	0
+1940	weak	слабый 	OTHER	0
+1941	a wealth	богатство 	NOUN	0
+1942	to wear	носить (одежду) 	VERB	0
+1943	a weather	погода 	NOUN	0
+1944	a week	неделя 	NOUN	0
+1945	a weekend	выходные дни, уикэнд 	NOUN	0
+1946	to weigh	весить, взвешивать (ся) 	VERB	0
+1947	welcome	желанный, долгожданный, приятный 	OTHER	0
+1948	to welcome	приветствовать 	VERB	0
+1949	well	хорошо 	OTHER	0
+1950	well	здоровый 	OTHER	0
+1951	wet	мокрый 	OTHER	0
+1952	what	что 	OTHER	0
+1953	whatever	все что, что бы ни 	OTHER	0
+1954	a wheel	колесо 	NOUN	0
+1955	when	когда 	OTHER	0
+1956	whenever	всякий раз когда, когда бы ни 	OTHER	0
+1957	where	где, куда, откуда 	OTHER	0
+1958	wherever	где бы ни, куда бы ни 	OTHER	0
+1959	whether	ли, или 	OTHER	0
+1960	which	который, какой 	OTHER	0
+1961	whichever	какой угодно, какой бы ни 	OTHER	0
+1962	while	пока, в то время как, хотя 	OTHER	0
+1963	to whisper	шептать 	VERB	0
+1964	to whistle	свистеть 	VERB	0
+1965	a whistle	свисток 	NOUN	0
+1966	who	кто 	OTHER	0
+1967	whoever	кто бы ни, который бы ни, любой 	OTHER	0
+1968	whole	весь, целый, в целом 	OTHER	0
+1969	whom	кого, кому 	OTHER	0
+1970	why	почему 	OTHER	0
+1971	wide	широкий 	OTHER	0
+1972	wide	широко 	OTHER	0
+1973	wild	дикий 	OTHER	0
+1974	a will	завещание 	NOUN	0
+1975	to will	выражает обещание, намерение 	VERB	0
+1976	willing	готовый (сделать что-л.) 	OTHER	0
+1977	to win	победить, выиграть 	VERB	0
+1978	a wind	ветер 	NOUN	0
+1979	to wind	виться, изгибаться, заводить 	VERB	0
+1980	a window	окно 	NOUN	0
+1981	a wing	крыло 	NOUN	0
+1982	a winter	зима 	NOUN	0
+1983	to wipe	вытирать, стирать 	VERB	0
+1984	a wire	проволока, провод 	NOUN	0
+1985	wise	мудрый, благоразумный 	OTHER	0
+1986	a wish	желание 	NOUN	0
+1987	to wish	желать, хотеть 	VERB	0
+1988	with	с 	OTHER	0
+1989	within	внутри, в пределах 	OTHER	0
+1990	without	без 	OTHER	0
+1991	a woman	женщина 	NOUN	0
+1992	to wonder	удивляться, интересоваться 	VERB	0
+1993	a word	слово 	NOUN	0
+1994	a work	работа 	NOUN	0
+1995	to work	работать, производить 	VERB	0
+1996	to work on	продолжать работать 	VERB	0
+1997	to work out	решать, разрабатывать 	VERB	0
+1998	to work up to	отрабатывать 	VERB	0
+1999	a world	мир 	NOUN	0
+2000	worried	озабоченный 	OTHER	0
+2001	to worry 	беспокоить (ся) 	VERB	0
+2002	worse	худший 	OTHER	0
+2003	worst	наихудший 	OTHER	0
+2004	worth	стоящий 	OTHER	0
+2005	a worth	цена, стоимость 	NOUN	0
+2006	a would	выражает желание 	NOUN	0
+2007	to wrap	заворачивать, завертывать 	VERB	0
+2008	to write	писать 	VERB	0
+2009	wrong	неправильный, неверно 	OTHER	0
+2010	a year	год 	NOUN	0
+2011	yes	да 	OTHER	0
+2012	yesterday	вчера 	OTHER	0
+2013	yet	еще, уже 	OTHER	0
+2014	you	ты, вы 	OTHER	0
+2015	young	молодой, юный 	OTHER	0
+2016	your	ваш, твой 	OTHER	0
+2017	yours	ваш, твой 	OTHER	0
+2018	yourself	себя, себе, сам 	OTHER	0
+2019	a zero	ноль 	NOUN	0
